@@ -1,0 +1,53 @@
+
+/* 
+    Created on : Nov 13, 2016, 1:36:15 PM
+    Author     : doyle
+*/
+.tree-view, .tree-cell {
+    -fx-background-color: white ;
+    -fx-text-fill: black ;
+    -fx-font-size: 16 ; 
+}
+.tree-cell:expanded, .tree-cell:sub-tree-item {
+    -fx-background-color: #FFFFFF ;
+}
+.tree-cell:selected {
+    -fx-font-weight: bold ;
+    -fx-background-color: lightskyblue ;    
+}
+.list-view, .list-cell {
+    -fx-text-fill: black ;
+    -fx-font-size: 16 ; 
+    
+}
+.list-cell:selected {
+    -fx-font-weight: bold ;
+    -fx-background-color: lightskyblue ;
+}
+
+.label {
+    -fx-font-size: 16px;
+}
+
+#logoLabel {
+    -fx-font-size: 32px;
+    -fx-font-weight: bold ;
+    -fx-font-style: italic;
+}
+
+.separator {
+    -fx-halignment: left;
+}
+
+.text-area {
+    -fx-font-size: 18px;
+}
+
+.text-field {
+    -fx-font-size: 18px;
+}
+
+.tooltip {
+     -fx-text-fill: black ;
+    -fx-background-color: lightgoldenrodyellow ;
+}

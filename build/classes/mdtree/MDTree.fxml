@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import org.controlsfx.control.StatusBar?>
+
+<BorderPane fx:id="idBorderPane" prefHeight="820.0" prefWidth="1240.0" stylesheets="@/mdtree/tree.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mdtree.MDTreeController">
+    <top>
+        <VBox prefHeight="113.0" prefWidth="1240.0" BorderPane.alignment="CENTER">
+            <children>
+                <MenuBar>
+                    <menus>
+                        <Menu mnemonicParsing="false" text="File">
+                            <items>
+                                <MenuItem fx:id="idMenuClose" mnemonicParsing="false" onAction="#onidMenuClose" text="Close" />
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="false" text="Edit">
+                            <items>
+                                <MenuItem fx:id="idMenuDelete" mnemonicParsing="false" onAction="#onidMenuDelete" text="Delete" />
+                            </items>
+                        </Menu>
+                        <Menu mnemonicParsing="false" text="Help">
+                            <items>
+                                <MenuItem fx:id="idMenuAbout" mnemonicParsing="false" onAction="#onidMenuAbout" text="About" />
+                            </items>
+                        </Menu>
+                    </menus>
+                </MenuBar>
+                <HBox prefHeight="70.0" prefWidth="1240.0">
+                    <children>
+                        <ImageView fitHeight="50.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                            <HBox.margin>
+                                <Insets left="10.0" top="20.0" />
+                            </HBox.margin>
+                            <image>
+                                <Image url="@../images/Tree-icon.png" />
+                            </image>
+                        </ImageView>
+                        <Label fx:id="logoLabel" text="MDTree™">
+                            <padding>
+                                <Insets left="15.0" top="10.0" />
+                            </padding>
+                            <font>
+                                <Font name="KacstArt" size="36.0" />
+                            </font>
+                     <HBox.margin>
+                        <Insets left="10.0" top="15.0" />
+                     </HBox.margin>
+                        </Label>
+                    </children>
+                </HBox>
+            </children>
+        </VBox>
+    </top>
+    <center>
+        <TabPane fx:id="idTabPane" prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+            <tabs>
+                <Tab fx:id="noteTab" onSelectionChanged="#ontabNotes" text="Maintenance Notes">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                            <children>
+                                <SplitPane fx:id="idVertSplitNotes" dividerPositions="0.29797979797979796" prefHeight="644.0" prefWidth="1240.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                    <items>
+                                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                            <children>
+                                                <TreeView fx:id="idNotesTreeView" onMouseClicked="#onidNotesTreeViewClicked" prefHeight="642.0" prefWidth="365.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                                            </children>
+                                        </AnchorPane>
+                                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                            <children>
+                                                <TextArea fx:id="idNotesTextEdit" onContextMenuRequested="#onidNotesTextEditContextMenuClicked" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" prefHeight="642.0" prefWidth="865.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                                            </children>
+                                        </AnchorPane>
+                                    </items>
+                                </SplitPane>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+                <Tab fx:id="vendorTab" onSelectionChanged="#ontabVendors" text="Vendors">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                            <children>
+                                <SplitPane fx:id="idVertSplitVendor" dividerPositions="0.17851373182552505" prefHeight="644.0" prefWidth="1240.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                    <items>
+                                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                            <children>
+                                                <ListView fx:id="idVendorListView" onMouseClicked="#onidVendorListViewClicked" prefHeight="642.0" prefWidth="365.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                                            </children>
+                                        </AnchorPane>
+                                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                                            <children>
+                                                <GridPane prefWidth="865.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                                                    <columnConstraints>
+                                                        <ColumnConstraints hgrow="ALWAYS" maxWidth="384.0" minWidth="90.0" prefWidth="94.0" />
+                                                        <ColumnConstraints hgrow="ALWAYS" maxWidth="1.7976931348623157E308" minWidth="0.0" prefWidth="919.0" />
+                                                    </columnConstraints>
+                                                    <rowConstraints>
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                        <RowConstraints maxHeight="157.0" minHeight="10.0" prefHeight="157.0" vgrow="SOMETIMES" />
+                                          <RowConstraints />
+                                                    </rowConstraints>
+                                                    <children>
+                                                        <Label text="Vendor:" GridPane.halignment="RIGHT" />
+                                                        <Label text="Address1:" GridPane.halignment="RIGHT" GridPane.rowIndex="1" />
+                                                        <Label text="Address2:" GridPane.halignment="RIGHT" GridPane.rowIndex="2" />
+                                                        <Label text="City:" GridPane.halignment="RIGHT" GridPane.rowIndex="3" />
+                                                        <Label text="Email:" GridPane.halignment="RIGHT" GridPane.rowIndex="4" />
+                                                        <Label text="URL:" GridPane.halignment="RIGHT" GridPane.rowIndex="5" />
+                                                        <Label text="Contact:" GridPane.halignment="RIGHT" GridPane.rowIndex="6" />
+                                                        <Label text="Phone:" GridPane.halignment="RIGHT" GridPane.rowIndex="7" />
+                                                        <Label text="Fax:" GridPane.halignment="RIGHT" GridPane.rowIndex="8" />
+                                                        <Label text="Notes:" GridPane.halignment="RIGHT" GridPane.rowIndex="9" />
+                                                        <TextField fx:id="idVendorText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idAddress1Text" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idAddress2Text" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idCityText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="3">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idEmailText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idUrlText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="5">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idContactText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="6">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idPhoneText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="7">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextField fx:id="idFaxText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" GridPane.columnIndex="1" GridPane.rowIndex="8">
+                                                            <GridPane.margin>
+                                                                <Insets left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextField>
+                                                        <TextArea fx:id="idNotesText" onKeyPressed="#onKeyPressEvent" onMouseClicked="#onMouseClickedEvent" prefHeight="170.0" prefWidth="745.0" GridPane.columnIndex="1" GridPane.rowIndex="9">
+                                                            <GridPane.margin>
+                                                                <Insets bottom="2.0" left="5.0" right="5.0" />
+                                                            </GridPane.margin>
+                                                        </TextArea>
+                                                    </children>
+
+                                                </GridPane>
+                                            </children>
+                                        </AnchorPane>
+                                    </items>
+                                </SplitPane>
+                            </children>
+                        </AnchorPane>
+                    </content>
+                </Tab>
+            </tabs>
+        </TabPane>
+    </center>
+    <bottom>
+        <StatusBar fx:id="idStatusbar" BorderPane.alignment="CENTER" />
+    </bottom>
+</BorderPane>

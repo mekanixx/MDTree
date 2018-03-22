@@ -1,0 +1,3522 @@
+<Treepad version 3.0>
+dt=Text
+<node>
+Maintenance Notes
+0
+
+Mailing Address
+ 
+ Exxel Outdoors, LLC
+ Attn: Accounts Payable
+ 6235 Lookout Rd, Suite B
+ Boulder, CO 80301
+
+Main Accounts Payable Contact
+ 
+ Brea Burchfield
+ Brea.Burchfield@americanrec.com
+ accountspayable@exxel.com 
+ 303-357-3721
+
+
+----------------------------------------------------------------------
+Thank you for Subscribing to SS-CMMS.
+
+You have purchased: 
+Transaction ID: 2JK73715TX1210940
+Item: One Year Subscription
+Amount: 48.00
+Card/Accnt: 4779
+Status: Approved
+Email: doyle@exxel.com
+
+Paid in Full.
+
+Thank you again for your order.
+SS-CMMS
+
+Note - Payment will be shown to: Rob Cochran Enterprises LLC  
+----------------------------------------------------------------------
+Tooling Blade Sizes
+
+ #8  -- .062
+ #10 -- .049
+ #12 -- .042
+ #14 -- .032
+ #16 -- .028
+ #18 -- .025
+----------------------------------------------------------------------
+
+NOTE: Moved blue wire to #3 port and plugged #1 clock into port #3
+
+
+Contact Us
+
+    Phone #: 407-347-3519
+
+Email
+
+    websales@usarollerchain.com
+
+Hours
+
+    Monday thru Friday 8:00 a.m. - 5:00 p.m. Eastern
+    Closed Saturday and Sunday
+
+Mailing Address
+
+    USA Roller Chain & Sprockets
+    Post Office Box 783695
+    Winter Garden, FL 34778-3695
+
+
+
+
+
+
+
+
+
+
+
+For outside line from maint:
+
+7-Feature-68704700 + Phone Number
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Building
+1
+
+Wall Fans
+ Global Industrial Part #VNS50S
+ J&D 50" Typhoon Exhaust Slant Wall Belt Drive No Cone
+ Item #: WB968686
+--------------------------------------------------------------
+Tork Photocontrol for outside lights
+Vendor: Grainger - 4JNP3
+ Voltage: 277V
+--------------------------------------------------------------
+Circuit Breaker for factory lights - Part No: 3HXC1
+Vendor: Grainger 
+ Specs: 277V TEY 20A
+ L x W x D
+ 5.25 x 1 x 3.06
+--------------------------------------------------------------
+Warehouse Fans use two B-45 belts. Changed 7-11-11
+--------------------------------------------------------------
+11-28-2006 - 34 fire ext. in plant
+--------------------------------------------------------------
+3-3-2008 18 Fire hoses in the plant
+ 50 feet from sides, 
+ 100 feet apart down the length of the plant, 
+ 150 feet between hoses across the center of the plant.
+--------------------------------------------------------------
+Ballast for breakroom. 
+ Grainger, Part No: 3VK01
+--------------------------------------------------------------
+Ballast for entry hall lights. 
+ www.bulbs.com, Part No: R2S40TP
+--------------------------------------------------------------
+Outside building light fixture
+ Lithonia Hi-Tek
+ Part No: TWP 100M TB
+ Lamp Type: M90 100 Watt 
+ Primary volts: 120/208/240/277
+ Ballast Transformer: 71A5380 
+ Grainger Part No: 3YA67
+--------------------------------------------------------------
+HID Fixture 400W  - 7E871
+Lamp   - 3JJ96
+--------------------------------------------------------------
+Urinal repair Kit - 5P212 Grainger
+--------------------------------------------------------------
+Circuit breaker cover for panel in Cell 4 - Grainger# 1D525
+--------------------------------------------------------------
+Grinder Pump Breakers - 3HXL7 40A
+--------------------------------------------------------------
+Sept 27, 2010 - Total Employees
+  26 Men
+ 42 Women
+--------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Air Conditioners
+2
+
+Belt size for AC Blowers in the manufacturing area. Size: A-57
+
+Air Filters used in plant:
+
+ 16"x20"x2" - Overhead Air Conditioner Units
+ 20"x20"x2" - Overhead Air Conditioner Units
+ 24"x24"x2" - Air Conditioner Floor Units 
+
+(*) 25"x20"x2" - Office Air Conditioner
+ 18"x18"x1" - Office Inside Filter
+ 15"x20"x1" - Office Computer Room Inside Filter 
+
+ 16"x24"x2" - Break Room Outside Air Filter
+ 12"x20"x2" - Break Room Outside Air Filter
+ 24"x24"x1" - Break Room Inside Air Filter
+
+(*) Changed with new Air Conditioner!
+
+(1) Break Room Outside Condenser Unit
+  Manufacturer: York 
+  Size:         7.5 Ton
+  Model No:     B3CH090A46A
+  Serial No:    NLFM120479
+
+(2) Office Outside Condenser Unit
+  Manufacturer: York 
+  Size:         10 Ton
+  Model No:     DM120N15N4AAA3C
+  Serial No:    NOE7808694
+
+Outside AC Units 
+ Condensor Fan Motors: 4ME18 Grainger
+ 10 MFD Run Capacitor: 2MDV7
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Air Compressor
+2
+
+Air Compressor Parts and Service
+
+ Compressor Parts
+
+ Quincy  75HP
+ SN:     92032H
+ Model:  QSI370ANA31C
+ CFM:    370
+
+ 128382-050       Oil Filter
+ 124487-003       Air/Oil Seperator
+ 23458-4          Air Filter
+ 127462-005       5 Gallons Oil (A467C)
+
+ Coupling Part No: 128387-404 (comes with bolts)
+ Coupling Bolts Part No: 128387-502
+
+ ************************************************
+ Sull-Air 12-50  50HP
+ Model:   12BS50H    ACAC
+ SN:      E03-95407
+
+ 250019-662    Oil  (A4000C)
+ 250034-116    Seperator Primary 
+ 408167-011    Seperator Secondary 
+ 250025-526    Oil Filter
+ 049301        Air Filter
+
+ ************************************************
+
+ Zander Ecosep
+ Model: WT-40
+ Charcoal Bag - WTCMF20
+
+ http://web.archive.org/web/20010516231041/http://www.zander.de/
+
+ ************************************************
+
+ Arrow Air Dryer
+ Model:  3513-4
+ Serial: UF424
+ SCFM:   375
+
+ 460V - F.L.A. 5.1
+ Chg: 12lbs R-22
+
+ ************************************************
+BOGE Air Dryer
+
+ Serial No: 140002449 /14
+ 
+
+ ************************************************
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Time Clock
+2
+Lathem
+ Model No: 5000EP
+
+Ribbon Part No: VIS6008
+Relay Board No:   E5P-R30
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Exit/Emergency Lights
+2
+
+Part Numbers for Exit lights
+
+McMaster Carr Part Numbers
+
+6Volt Battery  - 7448K24
+Large Bulb   - 1611K71 (long 150V bulb)
+Small Bulb  - 1505K395 (6 Volt)
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Alarm
+2
+
+DSC Power32
+
+------------------------------------------------------------------------
+To find Master Code:
+
+* 8 (Installer code)  007 #       - See: Alarm_Program_Manual.pdf
+###
+
+View/Change master code
+------------------------------------------------------------------------
+To set the time:
+
+* 6 (Master Code) 1 HHMM MMDDYY   - 10 digits 24 hour format
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0415
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Lights/ Lamp X-Reference
+2
+
+Lithonia - 277 volt
+ TX 400M 277 HOCS HSG
+ Ordering Code: M400 ML5AC4M500K
+ Whole ballast: 1PLJ6 - Grainger #
+
+
+************************************************************
+
+Fluorescent Lamp Cross-Reference
+
+************************************************************
+Office Ballast Replacement for 48 Bulbs
+
+McMaster Carr Part No;
+
+ 8345K56 - F40T12, 48, 2 Lamps. Electronic Ballast
+
+************************************************************
+
+Office Light Bulbs
+
+Bulbs.com Part No:
+
+ Philips 34W, Medium Bipin, T-12 U-Bent Fluorescent Econo-Watt Lamp, ALTO Low 
+ Mercury Technology, 4100K Color (dia. 1 1/2, length 22 7/16", gap 6"), Full Case (12)  Only
+
+ Product Number 378745  
+ Ordering Code FB34/SPEC41/6/EW ALTO   
+************************************************************
+
+
+Rapid-Start (40 Watts or Less) and Preheat Lamps
+
+Example: F30T12/CW/RS
+
+F    fluorescent 
+30   rated nominal wattage 
+T    indicates shape; this lamp is shaped like a tube 
+12   diameter in eighths of an inch; this lamp is 12/8 (1.5) inches in diameter 
+CW   color; this lamp is a cool white lamp 
+RS   mode of starting; the lamp is a rapid-start lamp. 
+ Preheat lamps do not have RS as a suffix 
+ Rapid-start lamps are the most popular fluorescent lamp type used in commercial
+  applications such as office buildings.
+
+ Note that some lamps may be designated F40T12/ES, but the lamp draws 34 instead of 40
+  watts; the ES, a modifier which stands for energy-saving, indicates this. ES is a
+  generic designation; actual manufacturer designations may be SS for SuperSaver, EW
+  for Econ-o-Watt, WM for Watt-Miser and others.
+
+ After the mode of starting, another number may be added to indicate color rendering and
+  color temperature if the lamps color (CW, WW, WWX, etc.) is not indicated. The number 
+ will often be three digits, the first indicating color rendering (a 7 standing for
+  75, for example) and then the next two indicating color temperature (a 41 standing
+  for 4100K, for example).
+
+High-Output Rapid-Start Lamps
+
+Example: F48T12/WW/HO
+
+F    fluorescent 
+48   nominal length of the lamp in inches 
+T    shape; this lamp is shaped like a tube 
+12   diameter in eighths of an inch; this lamp is 12/8 (1.5) inches in diameter 
+WW   color; this lamp is a warm white lamp 
+HO   high output lamp operating on 800mA current 
+
+
+Very High-Output Rapid-Start Lamps
+
+Example: F72T12/CW/VHO
+
+"F"    fluorescent 
+"72"   nominal length in inches 
+"T"    shape; this lamp is shaped like a tube 
+"12"   diameter in eighths of an inch; this lamp is 12/8 (1.5) inches in diameter 
+"CW"   color; this lamp is a cool white lamp 
+"VHO"  very high output lamp operating on 1500mA current; instead of VHO, 
+ it may read "1500" or "PowerGroove" (brand names) 
+
+Instant-Start Lamps
+
+Example: F96T12/WWX
+
+"F"  fluorescent 
+"96"  nominal length in inches 
+"T"  shape; this lamp is shaped like a tube 
+"12"  diameter in eighths of an inch; this lamp is 12/8 (1.5) inches in diameter 
+"WWX"  color; this lamp is a deluxe warm white lamp 
+Other Fluorescent Lamps
+
+"FC" instead of "F" means the lamp is circular.
+
+ "FB" or "FU" instead of "F" means the lamp is bent or U-shaped. The suffix
+  "U" can also  be used for U-shaped lamps, followed by a "/" and a number that 
+ indicates the distance  between the lamps legs in inches. "FT" instead of "F" 
+ is used for twin-tube T5 lamps.
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Heating System
+2
+Heater:
+ Lochinvar Copper-Fin Hot Water Boiler
+ Model No:  CBN3080
+ Serial No: L963926
+ AM284052
+ Control: M9
+
+Dimensions:
+
+ 11 ft x3 ft 9"x31"
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+New Bathrooms
+2
+
+FLYGT Grinder Pumps
+ Serial Nos: 1056094
+   1056096
+
+Jim House & Associates
+P.O. Box 320129
+Birmingham, AL 35232
+
+Phone:205-592-6302
+ WATS 1-800-292-6335
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Office
+2
+Parts for Law Label Printer
+
+ SATO Barcode Printer  Model# M-8400
+
+ Cutter Model# CT-480
+ Cutter SN:  10800127
+
+Printer?
+\\AL-SHIPDOC\SVC2_P1
+
+Check AC and heat BEFORE time to use it!
+
+--------------------------------------------------------
+
+Our UPS account number is A2X221
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Phone
+2
+
+To open mailbox:
+ Feature 981
+
+Doyle ft s Phone Password: 9174
+
+Feature 802 for group listening
+Feature *802 for canceling 
+Press Rls to hang up
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Truck
+2
+
+White Freightliner 
+
+ Business Class M2
+ 2005 Truck, LK00616-002
+ VIN: 1FVACWDC55HV15804
+
+--------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Floor Scale
+2
+Floor Scale in Receiving
+
+Model: VN31P5000X
+Serial: B437017503
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cell 1
+1
+
+Bryant TeleScoper - Roll take up for cut rolls
+Part No: 250-6-MS-SF-BP-SC(xxx)
+
+Bryant Products, Inc. 
+PO Box 270 
+Ixonia, WI 53036
+1-800-825-3874 
+tel: 920-206-6920 
+fax: 920-206-6929
+
+--------------------------------------------------------------
+
+Bars on Fill Table
+
+ 3/4" x 3/4" x 14 Guage (.083")
+--------------------------------------------------------------
+Floor Apron Specs:
+
+ 56ft Long x 100" Wide
+
+ 5 2-1/2" wide NP laced belts, 1/8" overlap. Using A5 slats cut
+ 99-3/4" long x 1-1/8" x 3/8" thick with 1-1/2" center to center
+ spacing. Rivets doubled every 5th slat
+
+--------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cut Roll
+2
+Cur Roll Apron
+ 37" x 96"
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Quilter
+2
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett A
+2
+Garnett "A"
+
+ Garnett drive motor:
+ 
+Location   Horsepower  RPM  Frame
+
+Garnett drive motor: 10HP    1200RPM  ?
+----------------------------------------------------------------------
+Specs for long apron on Cell 1A garnett.
+
+ ** Check Measurement! **
+
+ 24 ft - 6" long x 67" wide
+ 4 - 3" wide NP laced belts, with 1/8" overlap
+ #11 slats cut 66 3/4" long on 1" centers
+ Rivets doubled every 5th slat
+
+----------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett B
+2
+Garnett B
+Middle Transverse Apron - 12 ft  7" long x 67" wide
+
+-----------------------------------------------------------
+Ordered apron for Cell 1 garnett - 8/24/2011
+
+**Confirmed Measurement**
+The *Top*, long apron is 25 ft  8" x 67" wide
+Specs
+
+ 25 ft -8" long x 67" wide overall
+ 4 - 3" wide NP laced belts, with 1/8" overlap
+ #11 slats cut 66 3/4" long on 1" centers
+ Rivets doubled every 5th slat
+
+-----------------------------------------------------------
+
+Garnett "B"
+ 
+Location   Horsepower  RPM  Frame
+
+Garnett drive motor: 20HP    1170 RPM  ?
+
+-----------------------------------------------------------
+
+Cell1 "B" Bottom Lap Apron
+ 146" Long (Measured)
+
+ 12 ft - 2" long x 67" wide
+ 4 - 2-1/2" wide NP laced belts, with 1/8" overlap
+ #11 slats cut 66 3/4" long on 1" centers
+ Rivets doubled every 5th slat
+
+----------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hoppers
+2
+---------------------------------------------------------------------------
+[Garnett]
+
+Cell 1 Garnett A Spike Apron 14 ft 6" long x 58-3/4" wide. 
+
+ 5 NP laced belts (4" outside and 2-1/2" inside)
+ 1/8" overlap, canvas backing
+ HP slats cut 59" long x 1-1/8" wide x 9/16" thick
+ with 1-1/2" center to center spacing
+ #10 x 1-3/8" pins w/1-1/4" pitch
+ 3/4" projection staggered with 2" blank
+---------------------------------------------------------------------------
+**Confirmed Correct**
+
+Bottom Apron specs for Cell 1 garnet hopper: 7 ft - 2" x 59"
+
+(59" outside belt to outside belt, slats are 58-3/4")
+
+7 ft ,2" long x 59" wide
+2 - 2 1/2" wide NP laced belts outside, two 2" wide belts inside, 1/8" overlap. Canvas backing.
+#11 slats cut 58-3/4" long on 1" center to center spacing. Rivets doubled every 5th slat
+---------------------------------------------------------------------------
+
+Inside, bottom apron for Cell 1 hog hopper: 
+
+ Length: 9 ft - 4"
+ Width: 47" (outside belt to outside belt, slats are 46 3/4")
+
+9 ft ,4" long x 47" wide
+4 - 2 1/2" wide NP laced belts, 1/8" overlap. Canvas backing.
+#B59 slats cut 46 3/4" long on 1" center to center spacing.
+Rivets doubled every 5th slat
+---------------------------------------------------------------------------
+#11 slats are the normal slats - 1" wide
+#B59 slats are the sloped slats with one edge at 1/4" and the other at 1/2" - 7/8 wide.
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hog
+2
+Hog Apron Specs
+ Wooden slat apron on hog
+ ~34 ft  Long x 38" Wide
+
+ 34 ft  x 38"
+ 3 NP laced belts, 2-1/2" wide, 1/8" overlap, bonded canvas backing 
+ #11 slats cut 38-3/4" long x 1" wide on 1-1/2" centers rivets doubled 
+ every 5th slat
+
+
+-------------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cell 2
+1
+Carolina Power Drives, Inc.
+ 1-864-242-3408
+
+ Model 200 Style C 1:1 ratio gearbox for Cells. 
+ This is the gearbox that drives the lickern. 
+ $935.10
+
+ Cell 2 Blender uses two B-93 Drive Belts
+
+ Bearings for Cell 2 Fancy - Part no: ZMC9115
+--------------------------------------------------------------
+
+Bryant TeleScoper - Roll take up for cut rolls (solid rolls)
+Part No: 250-6-MS-SF-BP-SC(xxx)
+
+Bryant Products, Inc. 
+PO Box 270 
+Ixonia, WI 53036
+1-800-825-3874 
+tel: 920-206-6920 
+fax: 920-206-6929
+--------------------------------------------------------------
+
+Bars on Fill Table
+
+ 3/4" x 3/4" x 14 Guage (.083")
+ Fill Table Bag Catcher uses one (1) B74 belt.
+
+--------------------------------------------------------------
+
+PLC on Cell 2 Hog
+
+ SYSMAC C20K
+ C20K-CDR-K  0726C
+
+ Omron PLC
+
+ Software: LSS (DOS)
+           SysWin
+
+ Needs Host Link Unit: 3G2C7-LK201
+
+--------------------------------------------------------------
+Floor Apron Specs:
+
+ 56� Long x 100" Wide
+
+ 5 2-1/2" wide NP laced belts, 1/8" overlap. Using A5 slats cut
+ 99-3/4" long x 1-1/8" x 3/8" thick with 1-1/2" center to center
+ spacing. Rivets doubled every 5th slat
+
+--------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Quilter
+2
+Quilter Speed
+--------------------------------------------------------------
+Date: Feb. 6, 2007
+
+  Cell #2 Cell#3
+
+Head RPM 1308  1252
+Belt RPM 38.4  38.2
+
+Measured with both quilters set as fast as they would run.
+--------------------------------------------------------------
+
+1.) Front (small 3" Dia) roll broke 7-15-09
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett A
+2
+
+Cell 2 (Garnet "A") Short Garnett apron - 62-3/4" wide and 108" long
+  
+Desc:    
+
+    Note: Calculated length is: 108.57"
+
+ **NOTE** Re-measure!
+
+    108" long with
+    4 - 2-1/2"" wide NP laced belts, 1/8" overlap
+    #11 slats cut 62 3/4" long on 1" centers
+    Rivets doubled every 5th slat
+----------------------------------------------------------------------------
+    (Garnet "A") Middle (lapper)transverse Apron - 67" wide and 
+     12 ft 9" long
+
+----------------------------------------------------------------------------
+ Garnett A - V-Belts on Lickern drive
+ B66 and B93 Dual Belts
+
+----------------------------------------------------------------------------
+
+Garnett "A"
+
+ Garnett drive motor:
+ 
+Location   Horsepower  RPM  Frame
+
+Garnett drive motor: 20HP    1700 RPM  286T
+
+
+----------------------------------------------------------------------
+
+Cell 2 Apron (inverter) drive
+ 1L408 - 20:1 ratio
+----------------------------------------------------------------------------
+Speed Reducer for Doffers
+ 50:1 Ratio - Grainger Part No. 2Z151
+
+----------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett B
+2
+Garnett "B"
+ 
+Location   Horsepower  RPM  Frame
+
+Garnett drive motor: 15HP    1760 RPM  254T
+
+----------------------------------------------------------------------------
+
+Top long apron specs:
+
+ Long apron: 67" x 333 1/2" (27.79 ft )
+----------------------------------------------------------------------------
+
+Fancy bearing: Rex ZMC-9115 (1-15/16") - Rexnord
+
+ http://pt.rexnord.com/
+----------------------------------------------------------------------------
+
+Speed Reducer for Doffers
+ 50:1 Ratio - Grainger Part No. 2Z151
+
+----------------------------------------------------------------------------
+
+Garnett "B" transmission uses a 50BS18 sprocket (or 50BS17), any larger will
+ cause the fill to slide on the floor apron.
+
+----------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hoppers
+2
+
+Cell 2 Hog Stein Hopper (big hopper) uses 2 B158 belts.
+ 
+ Wide Belts for Big Hopper - 1 - 2926V966
+         1 - 3230V1250 
+
+ The idler bearing uses 2 6008ZZ bearings.
+
+ Inside bottom apron is 117 3/4" long, 48" wide, 4 - 2 1/2" wide belts
+
+ 48" x 117 3/4" (9 ft  9-3/4")
+ 4 NP laced belts, 2-1/2" wide, 1/8" overlap, bonded canvas backing w/snaps
+ #B59 slats cut 47-3/4" long x 1" wide on 1-1/2" centers rivets doubled 
+ every 5th slat 
+
+---------------------------------------------------------------------------
+
+Cell 2 Hog Lee Hopper (small hopper)
+ Bottom (small inside) apron is 7 ft 3" long, 58-1/2" wide
+
+ 58-1/2" x 87"
+ 5 NP laced belts, 2-1/2" wide, 1/8" overlap, bonded canvas backing 
+ #B59 slats cut 58-1/8" long x 1" wide on 1-1/2" centers rivets doubled 
+ every 5th slat 
+
+
+ Spike Apron 14 ft 6" long x 58-1/2" wide. 
+
+  5 NP laced belts (4" outside and 2-1/2" inside)
+  1/8" overlap, bonded canvas backing w/snaps
+  HP slats cut 58-1/4" long x 1-1/8" wide x 9/16" thick
+  with 1-1/2" center to center spacing
+  #10 x 1-3/8" pins w/1-1/4" pitch
+  3/4" projection staggered with 2" blank
+
+ Loading Apron
+
+ 14 ft  x 48" **Confirmed**
+ 4 NP laced belts, 2-1/2" wide, 1/8" overlap, bonded canvas backing w/snaps
+ #B59 slats cut 47-3/4" long x 1" wide on 1-1/2" centers rivets doubled 
+ every 5th slat 
+
+
+---------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hog
+2
+Hog Apron Specs
+ Wooden slat apron on hog
+ ~34 ft  Long x 38" Wide
+
+ 34 ft  x 38"
+ 3 NP laced belts, 2-1/2" wide, 1/8" overlap, bonded canvas backing 
+ #11 slats cut 38-3/4" long x 1" wide on 1-1/2" centers rivets doubled 
+ every 5th slat
+
+
+-------------------------------------------------------------------------------
+Hog
+ "Saco Lowell"(?) Kirschner Beater
+ "Spiders" End Cap marked D2 920L and 920R
+ 6-7/32" from center of shaft to top of spider.
+ 2-7/16" Bore 
+ Beater Lags 16x41" w/16 Screw Holes
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cell 3
+1
+
+Timing Belt Length on New Lappers
+ 
+ Cell 3A - 27 ft  5"
+ Cell 3B - 27 ft  6"
+
+--------------------------------------------------------------
+Cell 3 Flipper Long Top Cylinder
+ 5032-DXP 
+
+--------------------------------------------------------------
+Cell 3 stacker cylinder: TA-MS4-2.50x36-HC-BP-KK2-OS=1-WB
+
+Cylinder for Bag Catcher on Cell 3, Bimba Part #:  
+ TA-MS4-2.50x36-HC-BP-KK2-OS=1-WB
+ Bimba Repair Kit Part No: SK100-250HC
+
+Carolina Power Drives, Inc.
+ 1-864-242-3408
+
+ Model 200 Style C 1:1 ratio gearbox for Cells. 
+ This is the gearbox that drives the lickern. 
+ $935.10
+--------------------------------------------------------------
+
+Bryant TeleScoper - Roll take up for cut rolls
+Part No: 250-6-MS-SF-BP-SC(xxx)
+
+Bryant Products, Inc. 
+PO Box 270 
+Ixonia, WI 53036
+1-800-825-3874 
+tel: 920-206-6920 
+fax: 920-206-6929
+
+--------------------------------------------------------------
+Bars on Fill Table
+
+ 3/4" x 3/4" x 14 Guage (.083")
+
+--------------------------------------------------------------
+
+Floor Apron Specs:
+
+ 56� Long x 104" Wide
+
+ 5 2-1/2" wide NP laced belts, 1/8" overlap. Using A5 slats cut
+ 103-3/4" long x 1-1/8" x 3/8" thick with 1-1/2" center to center
+ spacing. Rivets doubled every 5th slat
+
+--------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cut Roll
+2
+Cut Roll Apron
+ 36" x 108"
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Quilter
+2
+Quilter Speed
+Date: Feb. 6, 2007
+
+   Cell #2 Cell#3
+
+ Head RPM 1308  1252
+ Belt RPM 38.4  38.2
+
+Measured with both quilters set as fast as they would run.
+--------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett A
+2
+Lapper Apron Specs:   75 ft  long x 67" wide
+       4 - 3" wide NP laced belts, with 1/8" overlap
+       #11 slats cut 66 3/4" long on 1" centers
+       Rivets doubled every 5th slat
+
+Cell 3 Hopper
+ Spike Apron Specs:
+
+ 59-1/4" x 13 ft  6" long
+
+----------------------------------------------------------------------
+
+Garnett "A"
+
+ Garnett drive motor:
+ 
+Location   Horsepower  RPM  Frame
+
+Garnett drive motor: 20HP    1770 RPM  256T
+
+----------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett B
+2
+Lapper Apron Specs:   75 ft  long x 67" wide
+       4 - 3" wide NP laced belts, 1/8" overlap
+       #11 slats cut 66 3/4" long with 1" centers
+       Rivets doubled every 5th slat
+
+----------------------------------------------------------------------------
+
+Garnett "B"
+ 
+Location   Horsepower  RPM  Frame
+
+Garnett drive motor: 15HP    1760 RPM  254T
+
+----------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hoppers
+2
+
+Cell 3 Hopper uses B-45 belts
+Belt sizes for Cell 3 Hog Hoppers - BB120
+
+-------------------------------------------------------------------------------
+[Hog Hoppers]
+
+Fiber Controls Corp Hog Hopper
+ Model No: 302
+
+Fiber Controls Corp Air Clutch
+ 
+
+Part for adjusting Fill (Adjustment bracket on end of adjustment rod)
+ Fiber Controls Part# P62000117 (Marked 302-9) 
+
+Air Clutch
+ Fiber Controls Part# S55000848 (C59000838)?
+
+-------------------------------------------------------------------------------
+Loading apron for hog hoppers
+
+ 12 ft 4" long x 35-3/4" wide overall
+ 3 - NP laced belts (3" outside and 2-1/2" inside) w/1/8" overlap
+ B59 slats (1" wide) cut 35-1/4" on 3" center to center spacing
+ w/bonded canvas backing
+
+-------------------------------------------------------------------------------
+Cell 3 Hog Apron next to Hog. Bottom apron inside hopper.  (NOT the loading apron)
+
+ 8 ft 6" long x 35-3/4" wide overall
+ 3 - NP laced belts (3" outside and 2-1/2" inside) w/1/8" overlap
+ B59 slats  (1" wide) cut 35-1/4" on 3" center to center spacing
+ w/bonded canvas backing
+
+-------------------------------------------------------------------------------
+Cell 3 Hog Spike Apron
+
+      3 NP laced belts (3" outside and 2-1/2" inside)
+ 1/8" overlap, bonded canvas backing w/snaps
+ HP slats cut 35-1/2" long x 1-1/8" wide x 9/16" thick
+ with 1-1/2" center to center spacing
+ #10 x 1-3/8" pins w/1-1/4" pitch
+ 3/4" projection staggered with 2" blank
+
+Cell 3 #1 Hog Hopper Spike Apron - 141" long x 35-3/4" wide. Confirmed length by 
+ measuring the #3 Hog Hopper Spike Apron. It was 11 ft  9" long.
+
+Cell 3 #2 Hog Hopper Spike Apron - 141" long x 35-3/4" wide. Confirmed length by 
+ measuring the #2 Hog Hopper Spike Apron. It was 11 ft  9" long.
+
+
+-------------------------------------------------------------------------------
+[Garnett]
+
+Cell 3 Garnett A Spike Apron 15 ft 8" long x 59-1/4" wide. (measured long for cutting)
+
+      5 NP laced belts (4" outside and 2-1/2" inside)
+ 1/8" overlap, canvas backing
+ HP slats cut 59" long x 1-1/8" wide x 9/16" thick
+ with 1-1/2" center to center spacing
+ #10 x 1-3/8" pins w/1-1/4" pitch
+ 3/4" projection staggered with 2" blank
+
+
+Cell 3 (Garnet Apron next to Hog) 
+Bottom Transverse Apron is 11 ft 6" long x 67" Wide.
+
+---------------------------------------------------------------------------
+
+Bottom Apron specs for Cell 3 garnet hopper: 7 ft - 3" x 59"
+
+(59" outside belt to outside belt, slats are 58-3/4")
+
+7 ft ,3" long x 59" wide
+2 - 2 1/2" wide NP laced belts outside, two 2" wide belts inside, 1/8" overlap. w/bonded Canvas backing. #11 slats cut 58-3/4" long on 1 3/8" center to center spacing. Rivets doubled every 5th slat
+---------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hog
+2
+
+Hog Apron Feed Gearbox/Speed Reducer
+ SM-CYCLO  Sumitomo
+ Model: CNHJ4090Y43
+ Ratio: 43
+ Torque: 559 in-lbs
+
+New Cyclo Number: CHHJ6090Y-43
+Possible replacement: Grainger #4Z615
+-------------------------------------------------------------------------------
+Hog Apron Specs
+ Wooden slat apron on hog
+ 63-1/2" Long x 38" Wide
+
+ 63-1/2" x 38"
+ 3 NP laced belts, 2-1/2" wide, 1/8" overlap, bonded canvas backing 
+ #11 slats cut 38-3/4" long x 1" wide on 1-1/2" centers rivets doubled 
+ every 5th slat
+
+**Update**
+ Now using flat conveyor belt for apron. 6-28-2011
+
+
+-------------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cell 4
+1
+Bryant TeleScoper - Roll take up for cut rolls
+Part No: 250-6-MS-SF-BP-SC(xxx)
+
+Bryant Products, Inc. 
+PO Box 270 
+Ixonia, WI 53036
+1-800-825-3874 
+tel: 920-206-6920 
+fax: 920-206-6929
+
+--------------------------------------------------------------
+
+Bars on Fill Table
+
+ 3/4" x 3/4" x 14 Guage (.083")
+
+--------------------------------------------------------------
+
+Floor Apron Specs:
+
+ 56� Long x 100" Wide
+
+ 5 2-1/2" wide NP laced belts, 1/8" overlap. Using A5 slats cut
+ 99-3/4" long x 1-1/8" x 3/8" thick with 1-1/2" center to center
+ spacing. Rivets doubled every 5th slat
+
+--------------------------------------------------------------
+Mummy Bag Calc
+
+ Cell 4 floor apron drive is 40:1 w/16 tooth sprocket
+ 21 tooth sprocket on cut roll.
+
+ 6" feed roll has 18.8496" circumference
+ 17 tooth gear on counter.
+ 
+ Each count moves the material 1.1088"
+
+AC Drive Settings for 5.1lb bag.
+
+Hog
+ "Apron1" - 54.4
+ "Apron2" - 64.0 
+
+Main Operator Panel
+
+ Left Drive - 0.0
+ Mid Drive - 16.7  (Feed Roll?)
+ Right Drive - 69.7 (Floor Apron?)
+
+--------------------------------------------------------------
+
+One bag needs 185" long x 88.5 wide material.
+
+12.633 sq yds
+1819.166 sq ft
+16372.5 sq in
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Quilter
+2
+Quilter Motor
+ 3KW34 - Grainger No.
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett A
+2
+Speed Reducer for Doffers
+ 50:1 Ratio - Grainger Part No. 2Z151
+
+-----------------------------------------------------------
+
+Cell4 "A" Middle Lap Apron
+ 148" Long (Measured)
+
+ 12 ft - 4" long x 67" wide
+ 4 - 2-1/2" wide NP laced belts, with 1/8" overlap
+ #11 slats cut 66 3/4" long on 1" centers
+ Rivets doubled every 5th slat
+
+-----------------------------------------------------------
+
+Cell4 "A" Bottom Lap Apron
+ 148" Long (Measured)
+
+ 12 ft - 4" long x 67" wide
+ 4 - 2-1/2" wide NP laced belts, with 1/8" overlap
+ #11 slats cut 66 3/4" long on 1" centers
+ Rivets doubled every 5th slat
+
+-----------------------------------------------------------
+
+Bottom Apron specs for Cell 4 "A" garnet hopper: 69" x 58-1/2"
+ (Hopper next to Hog)
+
+ (58-1/2" outside belt to outside belt, slats are 58-1/4")
+
+ 69" long x 58-1/2" wide
+ 2 - 2 1/2" wide NP laced belts outside, three 2" wide belts inside, 1/8" overlap.
+ Bonded Canvas backing. #11 slats cut 58-1/4" long on 1-3/8" center to center spacing.  
+ Rivets doubled every 5th slat
+
+-----------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Garnett B
+2
+Speed Reducer for Doffers
+ 50:1 Ratio - Grainger Part No. 2Z151
+
+-----------------------------------------------------------
+
+Cell 4 Hopper #2 (Hopper next to back of building)
+
+ Spike Apron specs for Cell 4 "B" garnet hopper:
+
+ 59" x 13 ft  2" long (Measured and Correct)
+
+-----------------------------------------------------------
+
+
+Bottom Apron specs for Cell 4 "B" garnet hopper: 70" x 58-1/2"
+ (Hopper next to back of building)
+
+ (58-1/2" outside belt to outside belt, slats are 58-1/4")
+
+ 69" long x 58-1/2" wide
+ 2 - 2 1/2" wide NP laced belts outside, three 2" wide belts inside, 1/8" overlap.
+ Bonded Canvas backing. #11 slats cut 58-1/4" long on 1-3/8" center to center spacing.  
+ Rivets doubled every 5th slat
+
+-----------------------------------------------------------
+Garnett #2
+
+ Belts for Fancy Drive: B-240
+
+-----------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hoppers
+2
+-----------------------------------------------------------
+Re-Run Hopper spike apron is 58-1/4" wide. 1-7/16" shafts with 6" pulleys. Length calculated to be 14 ft  6". 5 belts, 2-1/2" wide
+
+ 5 NP laced belts (3" outside and 2-1/2" inside)
+ 1/8" overlap, bonded canvas backing
+ HP slats cut 58" long x 1-1/8" wide x 9/16" thick
+ with 1-1/2" center to center spacing
+ #10 x 1-3/8" pins w/1-1/4" pitch
+ 3/4" projection staggered with 2" blank
+
+-----------------------------------------------------------
+
+Bottom Apron specs for Cell 4 garnet hopper: 69" x 58-1/2"
+ (Hopper next to Hog)
+
+Bottom Apron specs for Cell 4 garnet hopper: 70" x 58-1/2"
+ (Hopper next to back of building)
+
+ (58-1/2" outside belt to outside belt, slats are 58-1/4")
+
+ 69" long x 58-1/2" wide
+ 2 - 2 1/2" wide NP laced belts outside, three 2" wide belts inside, 1/8" overlap.
+ Bonded Canvas backing. #11 slats cut 58-1/4" long on 1-3/8" center to center spacing.  Rivets doubled every 5th slat
+
+-----------------------------------------------------------
+
+Cell 4 Garnett Hopper #1
+
+ Motor Drive: 2HP, 1160 RPM, 213 Frame
+
+ Grainger# 2N990
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hog
+2
+
+Hog Apron
+
+ 27 ft L x 37"W
+ 3 NP laced belts, 2-1/2" wide, 1/8" overlap, bonded canvas backing 
+ #11 slats cut 36-3/4" long x 1" wide on 1-1/2" centers rivets doubled 
+ every 5th slat
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+ForkLifts
+1
+*****************************************************************************************************************************************************
+Our PM rates includes travel. Only on breakdowns do we charge travel and thats only if Randall is dispatched a minimum of
+30 minutes away and yes it would be at the hourly rate. We can notate this on our JSRs in order to keep track for your records.
+
+In review of your request, I will match the PM rate and the Hourly Labor rate in leu of Exxels loyalty and commitment to
+LiftOne and the long standing relationship weve had with Exxel. Thank you for allowing us to adjust our prices and will
+continue to provide quality service for all your material handling needs.
+
+Agreement 2/16/16
+PM Rate = $72/lift , no travel charge
+Repair Labor Rate = $89/hour
+*****************************************************************************************************************************************************
+New Autozone Alternator
+
+ Part No: 095136
+
+New Autozone Starter
+ Part No: 432929
+*****************************************************************************************************************************************************
+
+Forklift Forks
+ Part no: 384213 @ $209.00 each (as of 3/27/15)
+ Class 2, 42" long.
+
+Bearing for Cat forklift belt idler 
+ 6202LU
+
+New Seat No: - SY1935 (BarlowWorld)
+
+Strobe Light Number
+ 1382130 49.95
+ 
+Beeper Number
+ 1350734 25.88
+
+Transmission fluid for Forklifts
+
+Caterpillar
+
+ Use ATF Dextron 3 transmission fluid
+
+TCM ?
+
+Hysters
+ Uses 303 John Deere Hydraulic Oil
+
+----------------------------------------------------------
+
+The new S50XM lifts with Chrevolet engines use parts
+like a 1986 Chevy Citation or Celebrity.
+
+Plugs, Plug wires, relays, etc.
+----------------------------------------------------------
+Junk Lift (Hyster 30)
+
+ Serial No: B010B05409J
+ Model No:  S30XL
+
+----------------------------------------------------------
+List of lifts with Model and Serial Nos.
+Date: 1/27/2016
+
+#1  Hyster 
+ Model:  S50XM
+ Serial: D187V26491Z
+
+#2  Hyster
+ Model No:  S30XL
+ Serial No: B010B3732G
+
+#3 Hyster
+ Model:  S50XM
+ Serial: D187V29419A
+
+#4 Caterpillar
+ Model:   GP-15
+ Serial:  3AMO1843
+
+#5 TCM:
+ Model:   FCG15T8T
+ Serial:  815W00894
+
+#6 Caterpillar
+ Model:   GC-15
+ Serial:  2EM04148
+
+#7 Hyster 
+ Model No:  S30XL
+ Serial No: B010B09296P
+
+#8 Hyster
+ Model:  S30XM
+ Serial: D010H03634C
+
+#9 Hyster 
+ Model: S50XM
+ Serial: D187V26329Z
+
+#10 Hyster 
+ Model No:  S50XL
+ Serial No: B187V02827L
+
+#11 Sky Jack
+ Model No:  M3219
+ Serial No: 220982
+
+#12 Hyster 
+ Model No:  S50XM
+ Serial No: D187V17361X
+
+#13 Hyster 
+ Model No:  S50XM
+ Serial No: D187V04662T 
+
+#14 Hyster 
+ Model No:  S50XM
+ Serial No: D187V09446V
+
+#15 Hyster Electric Lift
+ Model No:  N30XMDR3
+ Serial No: G138N01816A
+
+#16 Hyster Electric Lift
+ Model No:  N30ZDRS2-14.5
+ Serial No: B265N01919N
+
+#17 Crown Electric Lift
+ Model No:  30SP42TT
+ Serial No: W-96236
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+materialshandlingcentral.com
+Djohnson@liftone.net
+Tambo(1962)
+Popsbuddy#1
+amory
+randell (middle name)
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Warehouse  Hyster #1
+2
+Hyster (Pedal Buttons) 
+
+ Model:  S50XM
+ Serial: D187V26491Z
+
+Engine:
+ Mazda 1.8L? 2.0L? 1991?
+
+Starter Part No: 2314322 @ $258.46
+
+---------------------------------------------------------------------------
+Front Tire
+ 533/178-381
+ 21 x 7 x 15
+
+Rear Tire
+ 406x127x266.7
+ 16 x 5 x 10-1/2
+
+---------------------------------------------------------------------------
+
+Horn Button Kit
+
+ Aftermarket Part No: 800084007
+ Hyster Part No: 1342090
+
+---------------------------------------------------------------------------
+
+
+Transmission fluid for Forklifts
+Caterpillar
+ Use ATF Dextron 3 transmission fluid
+
+ Part No. 2799807 - Transmission Filter
+ Part No. BF-193  - Oil Filter
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+WareHouse  (Hyster-Old) #2
+2
+Hyster 30
+ Model No: S30XL
+ Serial No: B010B3732G
+
+Tire Sizes
+ Front: 18 x 7 x 12-1/8
+ Rear:  14 x 4-1/2 x 8
+
+Transmission fluid for Forklift
+ Uses 303 John Deere Hydraulic Oil
+
+Service:
+
+ Date   Description/Parts/Work Done 
+ 10-27-2011  New Water Pump
+
+Alternator
+ Mitsubishi #3020078
+ Unisource #800045596
+ Autozone #14597 SKU: 095136
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Warehouse  (Prestige) (S50XM) #3
+2
+Prestige Lift
+
+ Model:  S50XM
+ Serial: D187V29419A
+ 2.2 Mazda engine
+
+Front Tire
+ 533/178-381
+ 21 x 7 x 15
+
+Rear Tire
+ 406x127x266.7
+ 16 x 5 x 10-1/2
+
+Tune-up Kit
+ 996292 @ $40.65. 
+
+Throttle Cable
+ 1339626 @ $21.57
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Warehouse  (Bouncy) #4
+2
+"Bouncy"
+
+Caterpillar:
+ Model:   GP-15
+ Serial:  3AMO1843
+ Mitsubishi Motor 4G64
+
+ Timing Belt:   MD154243
+ Timing Sprocket: MD154242
+ Hydraulic Pump Kit: 91371-00111
+
+Tire Size:
+ Front - 6.50 x 10
+ Rear  - 5.00 x 8
+
+Front Rim:
+ P/N 1085262 - 6.50 x 10
+
+Bearing for Cat forklift belt idler 
+ 6202LU
+
+Bearing for Cat Forklift Fan 
+ 6303
+
+V-Belts for this lift, NAPA number
+ XL (tm) 25 7390
+ XL (tm) 25 9435
+
+Transmission fluid for Forklifts
+Clark and Caterpillar
+ Use ATF Dextron 3 transmission fluid
+
+Replacement Starter
+ Mitsubishi M001T79781
+ 7118 ?
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Warehouse  (TCM) #5
+2
+
+TCM:
+ Model:   FCG15T8T
+ Serial:    A15W00894
+ Engine:  TCM-F2 Mazda Engine
+
+Front Tires:
+ 533/178-381
+ 21 x 7 x 15
+
+Rear Tires:
+ 14x4-1/2x8
+ 356/114-203
+
+Alternator Part No. for TCM forklift 
+ #3020078RX 12V 45A or 
+ AIT23377 12V 35A Mitsubishi
+
+Uses 12-15 LB Radiator Cap
+
+Transmission fluid for Forklifts
+ TCM ?
+
+Thermostat + gasket
+ Barlowworld # 800123850 
+
+Horn Button Assy, Yale PART # TC214A4-10201
+
+Carb/Mixer
+ IMPCO CA100M-3 carb/mixer  LIFTONE # 800084528
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cell2 + 3 (Corey) #6
+2
+Caterpillar:
+ Model:   GC-15
+ Serial:  2EM04148
+
+ Mitsubishi Motor 4G63
+---------------------------------------------------------------------------
+Front Tire
+ 18 x 6 x 12-1/2
+
+Rear Tire
+ 14 x 4-1/2 x 8
+
+---------------------------------------------------------------------------
+
+Hydraulic Pump Kit: 91371-00111
+
+Bearing for Cat forklift belt idler 
+ 6202LU
+
+Bearing for Cat Forklift Fan 
+ 6303
+
+Thermostat + gasket
+ Barlowworld # 800071057
+ Caterpillar # 972905
+
+Transmission fluid for Forklifts
+Clark and Caterpillar
+ Use ATF Dextron 3 transmission fluid
+
+Part Numbers (Barlow World)
+ Starter    - #SYSN0012 
+ Alternator - #800071463
+
+ Front Oil Seal - MD069949 @ $15.00 each
+
+ Front Brake Cable (2) 91246-04400
+
+Tune-up Parts
+ Spark Plugs CT1038083
+ Plug Wires  CTMD972748
+ Rotor   CTMD618262
+ Dist Cap  CTMD618364
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Cell1  [] #7
+2
+(Cell1)
+
+Fireball #2
+Hyster 
+ Model No: S30XL
+ Serial No: B010B09296P
+
+Alternator
+ Mitsubishi #3020078
+ Unisource #800045596
+ Autozone #14597 SKU: 095136
+
+
+Tire Sizes
+ Front: 18 x 7 x 12-1/8
+ Rear:  14 x 4-1/2 x 8
+
+Transmission fluid for Forklifts
+ Uses 303 John Deere Hydralic Oil
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Squeeze Lift (Gary) #8
+2
+
+New Hyster Lift
+
+ Model:  S30XM
+ Serial: D010H03634C
+
+Tire Sizes
+ Front: 18 x 7 x 12-1/8
+ Rear:  15 x 5 x 11-1/4
+
+Squeeze Attachment
+ Brudi
+ Model: 083996
+ Serial: 92120397
+ Catalog: CBB25-A43
+ 
+---------------------------------------------------------------------------
+Date: 10-16-2012
+
+ New Autozone "Duralast Gold" Battery - $99.95
+ Clamps - $5.00
+
+
+
+---------------------------------------------------------------------------
+Electric Lift - **Obsolete**
+ Model:  F25
+ Serial: 5D804012
+---------------------------------------------------------------------------
+Tire Sizes
+ 18 x 7 x 12-1/8
+---------------------------------------------------------------------------
+Battery Charger Specs
+ Champion Charger
+ Model No: CHP-100-12-60051
+ Serial No: 97F00135
+ Specs: V16-87110-02
+ 600 AH
+
+Crown Battery Service
+ 1-205-744-8484 - Charlie
+
+Battery Specs - 36 Volt
+ Height: 20" (22" at handle)
+ Width:  20"
+ Length: 38-1/2"
+---------------------------------------------------------------------------
+Directional Switch
+ Part No. 974644
+
+Horn
+ Part No. 800080107 
+---------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Other Warehouse #9
+2
+Hyster 
+
+Model: S50XM
+Serial: D187V26329Z
+
+---------------------------------------------------------------------------
+
+Front Tire
+ 533/178-381
+ 21 x 7 x 15
+
+Rear Tire
+ 406x127x266.7
+ 16 x 5 x 10-1/2
+---------------------------------------------------------------------------
+
+Starter: Part# HY1374621
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Shop (S50XL ) #10
+2
+Hyster 
+ Model No: S50XL
+ Serial No: B187V02827L
+
+Engine
+ 4.121 VA Mazda Engine
+ 1985cc
+ MG4121?
+
+Tire Size
+ Front 18 x 8 x 12-1/8
+ Rear 16 x 5 x 10-1/2
+
+Reversing Switch for Backup Beeper
+ Part No: 98383
+ Seat No: SY-1935
+
+Transmission fluid for Forklifts
+ Uses 303 John Deere Hydralic Oil
+
+
+P/N 3126282RX - gear reduction starter 
+P/N 2314322   - std solenoid starter   
+P/N 377248 or 1328745 - Radiator
+P/N 703-1446 NAPA-Balkamp Radiator Cap
+P/N 371910 Throttle Cable 
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Obsolete (Tugger) #11
+2
+Hyster "Tugger" 
+ Model No: T5XT
+ Serial No: E142H01815U
+ Front Tire - 254 x 12 x 165 (10x5x6.5)
+
+Battery
+
+ 24v  12-125-13  750AH
+  30 5/8 inches - Length 
+  12 3/4 inches - Width
+  31 inches - Height
+  1470 lbs
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Sky Jack #12
+2
+Sky Jack
+ Model No: M3219
+ Serial No: 220982
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hyster S50XM (Ray) #13
+2
+Hyster 
+ Model No: S50XM
+ Serial No: D187V17361X
+
+ 3.0 Liter Chevrolet Engine
+
+Front Tire
+ 533/178-381
+ 21 x 7 x 15
+
+Rear Tire
+ 406x127x266.7
+ 16 x 5 x 10-1/2
+
+***********************************
+**               Parts                    **
+***********************************
+
+Tune-up Kit
+ 996336 @ $31.48
+
+Starter
+ 1650426 @ 247.95
+
+LPG Hose (From LP regulator to frame)
+ Unisource # SY93836
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hyster S50XM #14
+2
+Hyster 
+ Model No: S50XM
+ Serial No: D187V04662T
+
+ 3.0 Liter Chevrolet Engine
+
+***********************************
+**               Parts                    **
+***********************************
+
+Rebuilt Alternator
+ Part #3012611RX
+
+Water Pump
+ Part #865399 @ $125.02
+
+Front Tire
+ 533/178-381
+ 21 x 7 x 15
+
+Rear Tire
+ 406x127x266.7
+ 16 x 5 x 10-1/2
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hyster S50XM (WH) #15
+2
+Hyster 
+ Model No: S50XM
+ Serial No: D187V09446V
+ 3.0 Liter Chevrolet Engine
+
+Front Tire
+ 533/178-381
+ 21 x 7 x 15
+
+Rear Tire
+ 406x127x266.7
+ 16 x 5 x 10-1/2
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hyster N30XM (Prestige) #16
+2
+Hyster Electric Lift
+
+ Model No: N30XMDR3
+ Serial No: G138N01816A
+
+Battery
+ Type: 018125W13
+ Batt. ID: WL1U8100862
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Hyster N30ZD (Prestige) #17
+2
+Hyster Electric Lift
+
+ Model No: N30ZDRS2-14.5
+ Serial No: B265N01919N
+
+Battery
+ Type: 18-125S-11
+ Serial: 43287L4
+
+Tire Size
+ Drive/Steer Tire 12 x 5-1/2 x 8
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Crown 30SP42TT (Prestige) #18
+2
+Crown Electric Lift
+
+ Model No: 30SP42TT
+ Serial No: W-96236
+
+ 14.19" x 36.00"
+ Yuasa Battery
+ 12 cell   24V
+
+ Type: 125G-15
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Pack Out
+1
+
+Bag Roller Turrent In/Out Cylinder
+
+ CM-3110-DXP w/magnets
+
+--------------------------------------------------------------
+Heat Buster Fan - New fan in pack out.
+ Model:  QB24223
+ Serial: C11
+
+
+
+--------------------------------------------------------------
+Wide Conveyor in Pack Out
+
+ Part No: 71254
+ Width: 54" wide
+ Length: 35 ft  Long
+ $19.02 per Ft
+
+--------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Bag Roller Cell #1
+2
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Bag Roller Cell #2
+2
+
+C48C Counter Hookup
+
+ -------------  ---------|
+ |  |  |     |-- Black 11 - Com
+ |machine |< <|Counter |-- White 12 - 120VAC
+ |  |  |     |-- Red   3  - Relay
+ -------------  --------- -- Brown 4  - Relay
+          -- Yellow 9 - Common
+          -- Orange 7 - Count
+          -- Blue  10 - +12VDC
+          -- Purple 6 - Remote Reset
+          -- Green  1 - COMM
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Bag Roller Cell #3
+2
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Bag Roller Cell #4
+2
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Bag Roller #5
+2
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Bag Roller #6
+2
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Tape Machine #1
+2
+Parts for 3M Case Sealer (Tape Machine)
+
+3M-Matic Case Sealer 700rks
+3M Id : 78-8114-0813-3
+
+Model: 19300
+Serial:  5202
+Type:  700RKS
+
+Motor Part No: 78-8091-0596-4 Bodine Gearmotor
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Tape Machine #2
+2
+
+Tape Machine that Tracy rebuilt
+
+Model: 28900
+Serial: 5721
+Type:  77RKS RANDOM
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Tape Machine #3
+2
+Interpack Carton Sealer
+
+ Model:  USA2024-SB/3
+ Serial: K03TS544-003
+ HP: 2 x 1/3 HP
+ 115VAC
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Automatic Banding Machine
+2
+Strapak Banding Machine
+
+ Model: SS-80K
+ Serial:  97193111
+
+ Opening: 24H x 34W
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Manual Banding Machine
+2
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Best Pack Tape Machine
+2
+New Best-Pack Case Sealer
+
+Model: R033-3CP
+Serial:  158034
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Shop
+1
+Grinding Discs
+
+ 4-1/2 x 1/4 x 7/8 Hole ID
+ 80 Grit
+
+Sanding Discs
+
+ 4-1/2 x 7/8 Arbor
+ 60 Grit
+
+Cutting Wheels
+
+ 3 x 1/16 x 1/4 Hole ID Shop
+ 3 x 1/16 x 3/8 Hole ID Tracy
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Miller Welder
+2
+
+Miller Matic 185
+CV_DC Welding Power Source Wire Feeder
+
+Serial No: KH372188
+Stock  No: 903497
+Voltage:   200/230 VAC Single Phase
+Amps:      30/25.2 5KW
+
+Liner Part No: 194011 (.025-.035)
+               194012 (.035-.045)
+
+-----------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Golf Cart
+2
+Oldest golf cart
+-----------------------------------------------------------------------------
+EZGO Textron 35th Anniversity
+
+ Serial No:  576062
+ Man. Code:  B1289
+
+ Make:   Marathon
+ Type:   Electric
+ Model:  Electric 4-Wheel Marathon
+ Year:   1990
+
+Rear Wheel Bearing:  
+ 6004 w/seals
+
+Left Rear Brake Drum: 
+ EZ19186G1P
+
+
+Possible local parts source?
+ Randy Kilpatrick - 486-7630
+
+Tire Sizes - 18 x 8.50 - 6 NHS (Non Highway Service)
+
+-----------------------------------------------------------------------------
+Jeffs
+
+EZGO TXT 
+
+ Serial: L399
+             1229
+
+-----------------------------------------------------------------------------
+Powerwise Charger for Golf Cart
+
+ Model: 28115  G04
+ Serial:  509020
+ 36V  18 AH
+ 21A
+
+-----------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Pressure Washer
+2
+Pressure Washer - Annovi Reverberi
+   Pump Model: XMV3G25
+   3 GPM 5HP 
+   2500 PSI KW 3.7
+   3400 RPM 1780389=0
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Bandsaws
+2
+
+The Green Bandsaw uses 7 ft 9" x 5/8" x .032 Blades. 14TPI
+ McMaster #4125A738
+-----------------------------------------------------------------------------------------
+The Big Bandsaw uses 1"W x .032T x 9 ft 7-1/2" Blades. 16-18 TPI
+ Order from JIMS 
+-----------------------------------------------------------------------------------------
+New JET Bandsaw
+ Model No:  J-3410
+ Serial No: 13034705
+ Stock No:  414454
+
+Blade:
+
+ 3/4 X .035 X 93" 8 TPI
+ 3/4 X .035 X 93" 8 T STND 1
+ 3/4 X .035 X 93" 14 TPI
+ 3/4 X .035 X 93" 5/8T Bi-Metal
+
+-----------------------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+IR Thermometer
+2
+EXTECH 
+
+ Model No:  42510A
+ 12:1 Distance to Target Ratio
+ -58dF to 1200 dF
+
+ http://www.extech.com
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Lathe
+2
+Logan Lathe
+
+ Model: 2557V
+ Serial No: 78860
+
+ Spindle Threads: 2.25-8
+ Spindle Bore: 1-3/8"
+ Center Distance: 35"
+ Throw: 12"
+
+Gear for John
+ 
+ Part#; LA548-1
+ IBM#: 18A-31324
+ Item No: LP-1267  $117.50 
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Belt Sander
+2
+Belt/Disc Sander
+
+6 Inch Wide x 48 Inch Long, 
+120 Grit, 
+Aluminum Oxide Abrasive Belt 
+
+9 Inch Diameter, 
+120 Grit Aluminum 
+Cloth Backed
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+WareHouse
+1
+
+Pallet Jack info
+ Model No: ML55
+ Serial No: MP131361
+
+ Mobile Pallet Truck, Inc.
+ Tonawanda, NY 14150
+ 1-800-527-4612
+--------------------------------------------------------------
+Toledo Scales
+ Model: 2191
+ Serial: 559527
+ Factory No: 2191-60003
+ 1600 lbs
+
+--------------------------------------------------------------
+Warehouse Ceiling Fans use two B-45 belts. Changed 7-11-11
+--------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Shrink Wrap
+2
+
+Shrink wrap machine belt part no: B-210
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Floor Scale
+2
+Ohaus Floor Scale
+ Model No: VN31P5000X
+ Serial No:  B437017503
+
+ Capacity: 5000 lbs
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Parts Notes
+1
+
+   Hard to find parts, obselete, etc.
+-----------------------------------------------------------------------------------------
+Gear for Cut Roll
+ S318 14-1/2 Pitch
+
+
+Martin S318 3DP 3" Face Steel Spur Gear
+
+    No. Teeth                           18    
+    Catalog No                      S318
+    Pressure Angle (Deg.)   141/2
+    Diameter                         Pitch    6.000"   Outside   6.666"
+    Type                                   A
+    Bore                                Stock    1 5/16"       Max.* 3 1/4"
+    Hub                                 Diameter             Proj.
+    Weight (Approx.)           22.0 lbs. 
+-----------------------------------------------------------------------------------------
+
+Used oil pickup: 205-352-7618        $145.00 ?? for pickup
+
+-----------------------------------------------------------------------------------------
+Cylinder specs on old Baling Machine
+
+Cyl. Bore: 5.75 ?
+Cyl. Stroke: 48"
+Cyl. Rod: 3.480
+Cyl. Pin Size: 1"
+
+$3346.00 on 7/5/16
+-----------------------------------------------------------------------------------------
+Cash Machine Company
+    
+    10/1/2015
+    268368     Looper carrier                       $139.70 each
+    20062       Looper bracket pivot shaft    $73.35 each
+
+-----------------------------------------------------------------------------------------
+Vendor:
+ Grainger
+
+Part No:
+ 2Z796
+
+Desc:
+ Gearmotor on tooling stand.
+-----------------------------------------------------------------------------------------
+Fan Motor on New Heat Buster Fans:
+ 
+ QB-2 42" Fan
+ D-RE-PSC-139/45-4P25P-1/2HP-ZZ
+ DM(Asia)LTD
+ 12.5MFD Cap
+-----------------------------------------------------------------------------------------
+Planer Knive Blades used on Quilter knives 
+
+Vendor: 
+ Global Industrial Equipment
+
+Part No: 
+ WBB503315
+
+Jet Part No: 708807
+JET 708807 Model JWP15HI-K 15" Planer Knife Set (3)
+
+Ultra Wear-Resistant D2 Tool Steel, Tight-Tolerance Flat Stock, 3/16" x 3"
+Part No: 88905K84
+-----------------------------------------------------------------------------------------
+*NOTE* On bag folders to change sprockets on the gearbox shaft to a bushing type use
+  50SDS35 on gearbox, 50SDS30 on driving shaft. Both have 1" bore.
+
+-----------------------------------------------------------------------------------------
+Nichrome Wire 
+
+ Southern Fibers uses Nichrome 60 Wire for its hot wire cutting of polyester fiber.
+ Size 11 Gauge (.091 Diameter), .0821 Ohms per foot
+
+ Pelican Wire
+ Part No: 2111N60
+
+Using Now...
+ 
+ Polyester Melting Temp - 630 Degrees F
+ Using 18 Gauge Wire
+
+ 107.5" Long
+ 25.5V @ 6.755A
+
+-----------------------------------------------------------------------------------------
+JIMS
+
+ ******************************************************
+ For 3" rolls use Part# HCP1 for replacing #HP1
+ ******************************************************
+-----------------------------------------------------------------------------------------
+Cell2
+
+ Proctor Poppit #N2147TB - LH obsolete
+ (Brazed Poppet)
+
+ Possible Source - Jeff Willis
+ Phone: 864-847-7757
+
+ Info from Robert Vance
+
+-----------------------------------------------------------------------------------------
+Grainger
+
+ Toggle Relay for Line Up/Down Tables - Part No: 1EGU4
+-----------------------------------------------------------------------------------------
+Set screws for Tracy (needle screws) from JIMS
+
+ M M3x3 Flat Point BOSSARD Brand BN 40111 (Flat Head)
+ M3x3 DN 916 Alloy 45H Black - Part No: SS6S03003-100M1 (Allen Head)
+ A10594029   3mm Flat Point Set Screws for Tracy
+ A09791390   M3x3 Hex Set Screws for Tracy
+
+-----------------------------------------------------------------------------------------
+*NOTE* All coupler fittings for air hoses are Milton "M" style
+-----------------------------------------------------------------------------------------
+Part No: SKP 279800 (On different style comb box ) 
+-----------------------------------------------------------------------------------------
+
+Vendor  Part Number   Description 
+
+JIMS   BLF205-16   Small, 2-bolt flange bearing for upramp
+
+   RCB162117   1" bore, 1-15/16" OD Roller clutch bearing for             reversing tables
+   
+   72438   38" wide conveyor belt for Cell 3 hog apron.             Short apron going into feed rolls is 63-1/2"
+       long.
+   
+   11162SB   TCM Part No. for seals in Dayton Speed Reducer
+   10162TB-BX
+
+   SM106   1" Take-up frame
+   UCT205-16   Bearings for above frame
+
+   M2000x1-7/16"  Four bolt expansion flange bearing for Cell 3 hog fan           Moline Bearing Company Type M2000 Expansion
+
+McMaster-Carr 6498K185   Filling table stacker clamp cylinder 
+       1-1/16" Diameter, 5" stroke w/no pivot
+
+   8064K98   Contact Kit for Cell2 Hog contactor
+       Westinghouse Kit# 373B331G12
+
+Global Industrial WBB53947   Dock Bumpers
+
+
+-----------------------------------------------------------------------------------------
+Clamp cylinders for Flipper and Bag Folder
+
+McMaster-Carr 6498K674   1-1/2", 2" stroke w/unthreaded pivot
+McMaster-Carr 6498K676   1-1/2", 4" stroke w/pivot
+
+-----------------------------------------------------------------------------------------
+Cylinder to raise bars in Cell 4 and others.
+
+Bimba  172-DP   1-1/2", 2" stroke w/threaded pivot
+Vendor : Control & Power
+
+-----------------------------------------------------------------------------------------
+Bag Roller/Bag Catcher cylinders
+
+ For white bag rollers: TA-MS4-2.5x33-HC-BP-OS=1"
+ For green bag rollers: TA-MS4-2.5x36-HC-BP-OS=1"
+
+Rebuild Kit for the TRD cylinders from Bimba:
+
+ Part No: SK100-250-HC-BP 
+
+ Vendor : Control & Power
+-----------------------------------------------------------------------------------------
+Bag Roller Shocks
+ LROEMXT1.5M x 1 - 1" Stroke
+ LROEMXT1.5M x 2 - 2" Stroke
+ Vendor : Control & Power
+-----------------------------------------------------------------------------------------
+Reflective Tape for Photoeyes
+ Part No: BRT-THG-2-100
+ Vendor : Southern Controls, Inc.
+-----------------------------------------------------------------------------------------
+
+Comb Box Bearings
+
+ 3-6207RS
+ 1-6306RS1
+ 2-204KDD (6204)
+ 2-NSK6007V
+-----------------------------------------------------------------------------------------
+
+Linear Bearings for New Bagfolder in Cells. Reference PO# 24326
+ 
+ Shaft - SWF16x36 -- 6061K65
+ Linear Bearing (w/mount?) - TWA16WUU -- 9338T11
+ Shaft Mount - WH16A -- 6068K26
+-----------------------------------------------------------------------------------------
+
+Belt Lacing for Conveyor:
+ Part No: 10141 #20 - 42" long
+-----------------------------------------------------------------------------------------
+
+Elliot Metal Works
+
+ Card screens for 61", James Hunter Garnetts
+
+ EX401  Lickern screen, solid
+ EX402  1st Main Cylinder screen, solid
+ EX403  2nd Main Cylinder screen, solid
+
+ email: bsnell@elliottmetalworks.com
+
+-----------------------------------------------------------------------------------------
+Air cylinder part nos: 
+
+ A24120DP Pop-Up Cyl.
+ CF-1712-DP for bag rollers
+ 124-NRP for quilter knives
+-----------------------------------------------------------------------------------------
+Efka Ext Cable for Adler 756
+ No: 1111787
+-----------------------------------------------------------------------------------------
+Speed Reducer for Doffers
+ 
+ 50:1 Ratio - Grainger Part No. 2Z151
+
+-----------------------------------------------------------------------------------------
+Speed Reducer for Bag Roller
+ 30:1 - Winsmith, 56C, Part No. 4GAU2
+-----------------------------------------------------------------------------------------
+Speed Reducer for Apron Drive  ** Check Ratio **
+ 20:1 - Winsmith, 140C, Part No. 1L427
+----------------------------------------------------------------------------------------- 
+
+Fiber Locker machine put in Cell 1.
+
+ Todd @ Morrison Textiles - 413-662-4080
+
+ Model No: 15
+ Serial No: M9650
+
+ Needlebar Length: 105-1/2"
+ Needlebar Width:  1-3/4"
+ 5 Rows at 4 Needles per inch
+ App. 960 Needles for 3 rows
+
+Stripper Plate
+     O
+ PartNo: O O 40820-2
+
+Shaft
+
+ Part No. X26871.1 (or X268/1.1)
+
+Needle Bar
+
+ Part No. D301537-1
+
+-----------------------------------------------------------------------------------------
+
+Speed Reducer for Cut Roll
+
+ Model No: GRG-HMQ-821-7.5-H1-140-23
+ FHMQ8217.5H14023
+ Style HMQ
+ GR821 Series
+ 7.5:1 Ratio
+ H1 Assembly
+ 1-7/16" Bore - Hollow Shaft
+ 140TC Input Shaft
+ 
+-----------------------------------------------------------------------------------------
+Pliers for Felica (Cell3 Zipper Set)
+ McMaster Carr# 5827A1
+
+-----------------------------------------------------------------------------------------
+Possible source for comb blades
+
+ MPS Company, 
+ Terrell, Texas.  
+ Rick Fisher.  
+ 972-563-1583 
+ email:  mps205@charter.net
+
+-----------------------------------------------------------------------------------------
+Motor for Cell 3 Hog Hoppers
+ Grainger Part No: 44Z039
+ 885 RPM
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Calculations/Notes
+1
+
+LINK: file://C:\windows\system32\calc.exe
+
+Surface Speed
+
+ To determine the surface speed of a pulley or cylinder, Determine the diameter of
+ the pulley or cylinder. Divide the diameter by 12. Multiply by PI (3.1416) and 
+ multiply by the RPM. Result gives surface speed in feet per minute.
+
+ For example:
+  
+  FPM = Diameter / 12 * 3.1416 * RPM
+
+
+------------------------------------------------------------------------------------------
+Driven Speed of Shaft
+
+ To determine the driven speed of a shaft, determine the speed of the drive shaft. (If a
+  motor, read the rpm from the name plate). Multiply RPM by diameter of pulley.
+  (Measure from outside edge to outside edge). Divide the result by the diameter of the
+  driven pulley to determine driven shaft RPM.
+
+ For example:
+
+ Motor speed: 1125 RPM
+ Motor pulley: 6"
+ Driven pulley: 3"
+
+ (1125 x 6) / 3 = 2250 RPM
+ 
+ In case of a gear or sprocket, count the number of teeth on motor or driving shaft
+  sprocket (or gear). Multiply by driving shaft RPM and divide by the number of teeth on  the driven sprocket or gear.
+
+------------------------------------------------------------------------------------------
+Distance around 2 pulleys
+
+ To determine the total surface distance around a round object, measure the diameter  and multiply by PI(3.1416)
+
+ i.e. 6" x 3.1416 = 18.85"
+
+ Thia is useful for many things. Example:
+
+ To determine the length of a belt for an installation, first determine the diameter of
+  the driving pulley and calculate the circumference. Since the pulley will only contact
+  1/2 of the pulley surface, divide the circumference by 2. Repeat this step for the driven
+  pulley. Add the half circumference of the driving pulley and the half circumference of
+  the driven pulley together. This will tell you the total surface contact distance around
+  the pulleys.
+
+ Next measure the centerline distance between the two shafts and multiply by 2. Add the
+  result of this calculation to the result of the surface distance calculation to determine
+  the total distance in inches around the two pulleys. To convert to feet, divide the total
+  by 12.
+
+------------------------------------------------------------------------------------------
+      How to Convert RPM to Linear Speed
+
+
+The speed a motor spins at can be measured in rpm.Rpm stands for rotations per 
+minute and is used to quantify the speed at which an object spins, such as a 
+motor or a centrifuge. Linear speed measures the actual distance traveled, often
+in feet per minute. Because a rotation always covers the same distance, you can 
+convert from rpm to linear distance if you can find the distance per rotation. 
+To do so, all you need is the diameter of the rotation.
+
+Instructions
+
+        1
+
+        Measure the diameter of the circle that the item spins in. For example, a 
+ motor might spin in a circle with a diameter of 1.3 feet.
+
+        2
+
+        Multiply the number of rpm by 3.14. For example, if a motor spins at 140 
+ rpm, multiply 140 by 3.14 to get 439.6.
+
+        3
+
+        Multiply the Step 2 result by the diameter of the circle to find the 
+ linear speed per minute. Completing the example, multiply 439.6 by 
+ 1.3 feet to get a linear speed of 571.48 feet per minute.
+
+  FPM = RPM * (3.1416 * Diameter) (Diameter in Feet)
+  
+  FPM = RPM * 3.1416 * (Diameter / 12)   (Diameter in Inches)
+
+Read more : http://www.ehow.com/how_8232280_convert-rpm-linear-speed.html
+
+------------------------------------------------------------------------------------------
+
+      How to Convert FPM to Inches per Second
+
+ -- to convert the feet to inches, multiply by 12
+
+ -- to convert the minute to second, divide by 60
+
+ -- combining these operations, take (feet per minute) and multiply by (12/60) = 0.2
+
+   IPS = FPM/0.2  
+
+------------------------------------------------------------------------------------------
+
+ The formula to convert from in/m to ft/m is:
+
+   ft/m = in/m � 12
+
+------------------------------------------------------------------------------------------
+
+ The formula to convert from ft/m to in/m is:
+
+   in/m = ft/m x 12
+
+
+------------------------------------------------------------------------------------------
+
+Inches per minute to Feet per minute Conversion Example
+
+ Formula:
+  
+  in/m � 12 = ft/m
+
+ Calculations:
+ 
+ 250 in/m � 12 = 20.8333333333 ft/m
+
+ Result:
+
+ 250 in/m is equal to 20.8333333333 ft/m
+
+------------------------------------------------------------------------------------------
+
+Feet per minute to Inches per minute Conversion Example
+
+ Formula:
+
+ ft/m x 12 = in/m
+
+ Calculations:
+
+ 75 ft/m x 12 = 900 in/m
+
+ Result:
+
+ 75 ft/m is equal to 900 in/m
+
+------------------------------------------------------------------------------------------
+
+
+
+http://www.heatersplus.com/nichrome.htm
+
+
+Electrical Calculations For "Hot-Wire" Applications:
+
+The total amperage of the nichrome wire circuit must not exceed the total amperage of the variable voltage control that is supplying the circuit. As a rule-of-thumb do not exceed 80% of the total amperage rating of the variable voltage control.
+
+Ohms Law:
+V = I x R Voltage = Current x Resistance (Ohms)
+I = V/R Current = Voltage/Resistance (Ohms)
+R = V/I Resistance (Ohms) = Voltage/Current
+
+Example #1:
+Calculate the required "hot-wire" circuit resistance that will result in a full scale adjustment (0 to 100%) of a 120 volt, 15 amp, variable voltage control.
+
+Maximum recommended circuit amperage = 15amp x .80 (80%) = 12 amps
+Maximum control voltage = 120 volt
+Using the resistance calculation given above R=V/I = 120volt / 12amps = 10 Ohms
+
+Example #2:
+Using the result from example #1, how much 21 gauge nichrome wire would be needed to meet the requirements?
+
+From the specification table: 21gauge nichrome wire resistance = .831Ohms/ft
+Required Nichrome Wire Length = (Required Circuit Resistance) / (Ohms/Ft Of Wire)
+Required Nichrome Wire Length = 10ohms / .831ohms/ft = 12.034ft
+
+Example #3:
+From example #2, suppose that you only want to use 6ft of nichrome wire. What is the maximum controller scale adjustment that can be made without exceeding the 120 volt variable voltage controller�s 15 amp rating?
+
+Variable voltage controllers have a dial adjustment between 0 and 100% of the maximum control voltage. That is, a 50% setting on a 120 volt control will result in an output of 120 x .50 (50%) = 60 volts. A 30% setting on a 120 volt control will result in an output of 120 x .30 (30%) = 36 volts.
+
+A 6ft piece of 21gauge nichrome wire will have a total resistance of .831ohms/ft x 6ft = 4.986 ohms.
+
+Recall that the maximum recommended amperage is 15amp x .80(80%) = 12 amps
+Using the voltage calculation from above V=IxR = 12amps x 4.986ohm = 59.832 volts
+
+What percentage of the dial setting will result in a 59.832 volt output?
+% Dial Setting = (Required Voltage / Maximum Control Voltage) x 100
+% Dial Setting = (59.832volt/120volt) x 100 = 49.86%
+
+The dial on the controller can be adjusted from 0 to 49.86% without exceeding the controller�s amperage rating.
+
+Example #4:
+Based on the examples above what is the maximum estimated temperature that the 21gauge nichrome wire will achieve at 12 amps?
+
+From the specification table:
+A 21 gauge nichrome wire at 10.88amps will result in a wire temperature of 1600�F
+A 21 gauge nichrome wire at 13.40amps will result in a wire temperature of 1800�F
+Therefore, we can expect the wire temperature to fall between 1600�F and 1800�F.
+We can estimate the temperature to be approximately 1700�F at 12 amps.
+
+
+
+  
+5880 Alpine Ave. NW � Comstock Park, MI 49321  USA � Tel 616-784-1121 � 800-442-2581 � Fax 616-784-7775 � E-mail sales@heatersplus.com 
+When you are ready to order you will be taken to our secure online ordering website: www.MorElectricHeating.com.
+Visit our other websites for home, office and factory infrared heating, fans and air conditioning: www.InfraredHeaters.com and www.Fans-Plus.com. 
+ view cart 
+ 
+ 
+
+ 
+Nichrome 60 (NiCr60) Resistance Heating Wire in 25, 50, 75 or 100 foot lengths packaged in a plastic bag
+
+
+
+Coiled Nichrome Wire (Open Coil Resistance Wire Elements - Infrared and Air Process/Duct Heaters)
+5, 10 or 30 pound spools of Nichrome or Kanthal
+
+Nichrome wire is commonly used as a resistance heater for cutting foam (Styrofoam, polyurethane, etc.) fabrics, and a variety of other materials. 
+Nichrome-60 wire (NiCr60 Type Alloy 675 Nickel Chrome Alloy)
+Nickel: 57-58%, Chromium: 16%, Silicon: 1.5%, Iron: Balance
+
+We stock 16-22, 24, 25, 28, 29 and 31 gauge Nichrome-60 wire sold by the foot (packaged in a plastic bag) - A commonly used wire is 21 gauge. It might require some experimentation to determine the best gauge to use for your material, and what the correct tension and temperature is. 
+
+--------------------------------------------------------------------------------
+Properties of NiCr 60 Type 675 Alloy: 
+ 
+Density (weight per cubic inch:) 0.2979 lbs. 
+Specific gravity @ 68�F (20�C): 8.247 
+Magnetic Attraction: Para 
+Thermal conductivity watts/cm/�C @ 100�C (212�F): 0.132 
+Approximate melting point: 2462�F (1350�C) 
+Maximum operating temp: 1652�F (900�C) 
+ Resistivity factors:
+Temperature 68�F (20�C), Factor 1.000
+Temperature 212�F (100�C), Factor 1.019
+Temperature 392�F (200�C), Factor 1.043
+Temperature 572�F (300�C), Factor 1.065
+Temperature 752�F (400�C), Factor 1.085
+Temperature 932�F (500�C), Factor 1.093
+Temperature 1112�F (600�C), Factor 1.110
+Temperature 1292�F (700�C), Factor 1.114
+Temperature 1472�F (800�C), Factor 1.123
+Temperature 1652�F (900�C), Factor 1.132
+Temperature 1832�F (1000�C), Factor 1.143 
+
+--------------------------------------------------------------------------------
+
+CURRENT TEMPERATURE CHARACTERISTICS OF NICHROME 60 STRAIGHT WIRE
+Showing approximate amperes necessary to produce a given temperature. Applying only to straight wires stretched horizontally in free air.
+ 
+AWG
+(Gauge) Dia." Temp. 400F
+Temp. 204C 600 
+316 800 
+427 1000 
+538 1200 
+649 1400 
+760 1600 
+871 1800 
+982 2000F
+1093C 
+16 .051 6.13 8.31 10.50 13.11 16.30 20.10 24.10 28.20 32.30 
+17 .045 5.31 7.18 9.13 11.30 13.90 16.90 20.30 23.60 27.00 
+18 .040 4.66 6.26 7.90 9.75 11.96 14.51 17.37 20.48 23.08 
+19 .036 4.09 5.46 6.84 8.41 10.30 12.45 14.87 17.78 19.73 
+20 .032 3.58 4.77 5.92 7.25 8.86 10.69 12.72 15.43 16.87 
+21 .0285 3.14 4.16 5.13 6.26 7.63 9.17 10.88 13.40 14.40 
+22 .0253 2.76 3.63 4.44 5.40 6.56 7.87 9.31 11.63 12.33 
+24 .020 2.12 2.76 3.32 4.01 4.86 5.80 6.82 8.76 9.01 
+25 0179 1.84 2.42 2.90 3.44 4.15 4.97 5.86 6.96 7.72 
+
+
+--------------------------------------------------------------------------------
+
+Size and Approximate Cold Resistances for Common Wattages
+ 
+Watts at
+Operating
+Temperatures NICHROME 60
+Ohms at 75 Degrees RECOMMENDED
+A.W.G. SIZES 
+110-120 Volts 220-240 Volts 110-120 Volts 220-240 Volts 
+200 59.050 236.20 Max. 25-29 Max. 28-32 
+250 47.240 188.96 24-28 27-31 
+300 39.366 157.46 24-28 27-31 
+350 33.742 134.97 23-27 26-30 
+400 29.525 118.10 22-26 25-29 
+450 26.244 104.98 20--24 23--27 
+500 23.620 94.479 20--24 23--27 
+550 21.472 85.889 19-23 22--26 
+600 19.683 79.730 19--23 22--26 
+650 18.170 72.679 19--23 22--26 
+700 16.871 67.486 18--22 21--25 
+750 15.745 62.982 18--22 21--25 
+800 14.762 59.055 18-22 21--25 
+850 13.894 55.577 17--21 20-24 
+900 13.122 52.487 17--21 20-24 
+950 12.431 49.726 17--21 20--24 
+1000 11.810 47.240 16--20 19--23 
+1050 11.247 44.989 16-20 19--23 
+1100 10.737 42.946 16-20 19--23 
+1150 10.270 41.078 15--19 18-22 
+1200 9.8418 39.367 15--19 18--22 
+1250 9.4479 37.792 14--18 17-21 
+1300 9.0845 36.338 14-18 17-21 
+1350 8.7480 35.992 13--17 16--20 
+1400 8.4356 34.743 13--17 16-20 
+1450 8.1449 32.579 12--16 15--19 
+1500 7.8732 31.493 12--16 15--19 
+
+
+--------------------------------------------------------------------------------
+
+Generic "Hot Wire" Layout
+
+** CAUTION: Hazard of Electrical Shock
+The nichrome wire is electrically live. Care must be taken to isolate the nichrome wire from any electrical conductor before power is applied. Never touch the nichrome wire while power is applied.
+
+Electrical Calculations For "Hot-Wire" Applications:
+
+The total amperage of the nichrome wire circuit must not exceed the total amperage of the variable voltage control that is supplying the circuit. As a rule-of-thumb do not exceed 80% of the total amperage rating of the variable voltage control.
+
+Ohms Law:
+V = I x R Voltage = Current x Resistance (Ohms)
+I = V/R Current = Voltage/Resistance (Ohms)
+R = V/I Resistance (Ohms) = Voltage/Current
+
+Example #1:
+Calculate the required "hot-wire" circuit resistance that will result in a full scale adjustment (0 to 100%) of a 120 volt, 15 amp, variable voltage control.
+
+Maximum recommended circuit amperage = 15amp x .80 (80%) = 12 amps
+Maximum control voltage = 120 volt
+Using the resistance calculation given above R=V/I = 120volt / 12amps = 10 Ohms
+
+Example #2:
+Using the result from example #1, how much 21 gauge nichrome wire would be needed to meet the requirements?
+
+From the specification table: 21gauge nichrome wire resistance = .831Ohms/ft
+Required Nichrome Wire Length = (Required Circuit Resistance) / (Ohms/Ft Of Wire)
+Required Nichrome Wire Length = 10ohms / .831ohms/ft = 12.034ft
+
+Example #3:
+From example #2, suppose that you only want to use 6ft of nichrome wire. What is the maximum controller scale adjustment that can be made without exceeding the 120 volt variable voltage controller�s 15 amp rating?
+
+Variable voltage controllers have a dial adjustment between 0 and 100% of the maximum control voltage. That is, a 50% setting on a 120 volt control will result in an output of 120 x .50 (50%) = 60 volts. A 30% setting on a 120 volt control will result in an output of 120 x .30 (30%) = 36 volts.
+
+A 6ft piece of 21gauge nichrome wire will have a total resistance of .831ohms/ft x 6ft = 4.986 ohms.
+
+Recall that the maximum recommended amperage is 15amp x .80(80%) = 12 amps
+Using the voltage calculation from above V=IxR = 12amps x 4.986ohm = 59.832 volts
+
+What percentage of the dial setting will result in a 59.832 volt output?
+% Dial Setting = (Required Voltage / Maximum Control Voltage) x 100
+% Dial Setting = (59.832volt/120volt) x 100 = 49.86%
+
+The dial on the controller can be adjusted from 0 to 49.86% without exceeding the controller�s amperage rating.
+
+Example #4:
+Based on the examples above what is the maximum estimated temperature that the 21gauge nichrome wire will achieve at 12 amps?
+
+From the specification table:
+A 21 gauge nichrome wire at 10.88amps will result in a wire temperature of 1600�F
+A 21 gauge nichrome wire at 13.40amps will result in a wire temperature of 1800�F
+Therefore, we can expect the wire temperature to fall between 1600�F and 1800�F.
+We can estimate the temperature to be approximately 1700�F at 12 amps.
+
+
+--------------------------------------------------------------------------------
+Secure Online Ordering
+Delivery time: typically ships in 1 working day or less plus allow additional time for your selected UPS or FedEx shipping method.  Your shipping cost will be displayed in your shopping cart.
+Optional Controls
+Optional Ceramic Insulators
+Optional Electrical Power Wire
+Optional Ring Terminals
+Optional Ceramic Fiber Insulation
+ 
+Item ID Catalog # Description
+ Length AWG
+(Gauge) Dia. Ohms/Ft
+at 68�F Approx. �F
+at 15 amps Price Click "Select" below to see our actual real-time quantity in stock 
+MORNICH10002 16GA-NI60 16 GA ALLOY 675 .0508 25 Feet 16 .0508" .2595 >1000 $25.00  
+MORNICH10003 16GA-NI60 16 GA ALLOY 675 .0508 50 Feet 16 .0508" .2595 >1000 $45.00  
+MORNICH10004 16GA-NI60 16 GA ALLOY 675 .0508 75 Feet 16 .0508" .2595 >1000 $65.00  
+MORNICH10001 16GA-NI60 16 GA ALLOY 675 .0508 100 Feet 16 .0508" .2595 >1000 $80.00  
+MORNICH10007 17GA-NI60 17 GA ALLOY 675 .0453 25 Feet 17 .0453" .3333 >1200 $25.00  
+MORNICH10008 17GA-NI60 17 GA ALLOY 675 .0453 50 Feet 17 .0453" .3333 >1200 $45.00  
+MORNICH10009 17GA-NI60 17 GA ALLOY 675 .0453 75 Feet 17 .0453" .3333 >1200 $65.00  
+MORNICH10006 17GA-NI60 17 GA ALLOY 675 .0453 100 Feet 17 .0453" .3333 >1200 $80.00  
+MORNICH10012 18GA-NI60 18 GA ALLOY 675 .0403 25 Feet 18 .0403" .4219 1400 $25.00  
+MORNICH10013 18GA-NI60 18 GA ALLOY 675 .0403 50 Feet 18 .0403" .4219 1400 $45.00  
+MORNICH10014 18GA-NI60 18 GA ALLOY 675 .0403 75 Feet 18 .0403" .4219 1400 $65.00  
+MORNICH10011 18GA-NI60 18 GA ALLOY 675 .0403 100 Feet 18 .0403" .4219 1400 $80.00  
+MORNICH10017 19GA-NI60 19 GA ALLOY 675 .0359 25 Feet 19 .0359" .5208 1600 $25.00  
+MORNICH10018 19GA-NI60 19 GA ALLOY 675 .0359 50 Feet 19 .0359" .5208 1600 $45.00  
+MORNICH10019 19GA-NI60 19 GA ALLOY 675 .0359 75 Feet 19 .0359" .5208 1600 $65.00  
+MORNICH10016 19GA-NI60 19 GA ALLOY 675 .0359 100 Feet 19 .0359" .5208 1600 $80.00  
+MORNICH10022 20GA-NI60 20 GA ALLOY 675 .0320 25 Feet 20 .0320" .6592 1800 $25.00  
+MORNICH10023 20GA-NI60 20 GA ALLOY 675 .0320 50 Feet 20 .0320" .6592 1800 $45.00  
+MORNICH10024 20GA-NI60 20 GA ALLOY 675 .0320 75 Feet 20 .0320" .6592 1800 $65.00  
+MORNICH10021 20GA-NI60 20 GA ALLOY 675 .0320 100 Feet 20 .0320" .6592 1800 $80.00  
+MORNICH10027 21GA-NI60 21 GA ALLOY 675 .0285 25 Feet 21 .0285" .8310 2000 $25.00  
+MORNICH10028 21GA-NI60 21 GA ALLOY 675 .0285 50 Feet 21 .0285" .8310 2000 $45.00  
+MORNICH10029 21GA-NI60 21 GA ALLOY 675 .0285 75 Feet 21 .0285" .8310 2000 $65.00  
+MORNICH10026 21GA-NI60 21 GA ALLOY 675 .0285 100 Feet 21 .0285" .8310 2000 $80.00  
+MORNICH10032 22GA-NI60 22 GA ALLOY 675 .0253 25 Feet 22 .0253" 1.055 >2000 $25.00  
+MORNICH10033 22GA-NI60 22 GA ALLOY 675 .0253 50 Feet 22 .0253" 1.055 >2000 $45.00  
+MORNICH10034 22GA-NI60 22 GA ALLOY 675 .0253 75 Feet 22 .0253" 1.055 >2000 $65.00  
+MORNICH10031 22GA-NI60 22 GA ALLOY 675 .0253 100 Feet 22 .0253" 1.055 >2000 $80.00  
+MORNICH10037 24GA-NI60 24 GA ALLOY 675 .0201 25 Feet 24 .0201" 1.671 >2000 $25.00  
+MORNICH10038 24GA-NI60 24 GA ALLOY 675 .0201 50 Feet 24 .0201" 1.671 >2000 $45.00  
+MORNICH10039 24GA-NI60 24 GA ALLOY 675 .0201 75 Feet 24 .0201" 1.671 >2000 $65.00  
+MORNICH10036 24GA-NI60 24 GA ALLOY 675 .0201 100 Feet 24 .0201" 1.671 >2000 $80.00  
+MORNICH10042 25GA-NI60 25 GA ALLOY 675 .0179 25 Feet 25 .0179" 2.107 >2000 $25.00  
+MORNICH10043 25GA-NI60 25 GA ALLOY 675 .0179 50 Feet 25 .0179" 2.107 >2000 $45.00  
+MORNICH10044 25GA-NI60 25 GA ALLOY 675 .0179 75 Feet 25 .0179" 2.107 >2000 $65.00  
+MORNICH10041 25GA-NI60 25 GA ALLOY 675 .0179 100 Feet 25 .0179" 2.107 >2000 $80.00  
+MORNICH10047 28GA-NI60 28 GA ALLOY 675 .0126 25 Feet 28 .0126" 4.251 >2000 $25.00  
+MORNICH10048 28GA-NI60 28 GA ALLOY 675 .0126 50 Feet 28 .0126" 4.251 >2000 $45.00  
+MORNICH10049 28GA-NI60 28 GA ALLOY 675 .0126 75 Feet 28 .0126" 4.251 >2000 $65.00  
+MORNICH10046 28GA-NI60 28 GA ALLOY 675 .0126 100 Feet 28 .0126" 4.251 >2000 $80.00  
+MORNICH10052 29GA-NI60 29 GA ALLOY 675 .0113 25 Feet 29 .0113" 5.286 >2000 $25.00  
+MORNICH10053 29GA-NI60 29 GA ALLOY 675 .0113 50 Feet 29 .0113" 5.286 >2000 $45.00  
+MORNICH10054 29GA-NI60 29 GA ALLOY 675 .0113 75 Feet 29 .0113" 5.286 >2000 $65.00  
+MORNICH10051 29GA-NI60 29 GA ALLOY 675 .0113 100 Feet 29 .0113" 5.286 >2000 $80.00  
+MORNICH10057 31GA-NI60 31 GA ALLOY 675 .0089 25 Feet 31 .0089" 8.523 >2000 $25.00  
+MORNICH10058 31GA-NI60 31 GA ALLOY 675 .0089 50 Feet 31 .0089" 8.523 >2000 $45.00  
+MORNICH10059 31GA-NI60 31 GA ALLOY 675 .0089 75 Feet 31 .0089" 8.523 >2000 $65.00  
+MORNICH10056 31GA-NI60 31 GA ALLOY 675 .0089 100 Feet 31 .0089" 8.523 >2000 $80.00  
+
+--------------------------------------------------------------------------------
+Optional Ceramic Insulators: A commonly used size is PI-7/8-1.
+  More Information
+ 
+Item ID Catalog# Description Quantity Price Click "Select" below to see our actual real-time quantity in stock 
+MORTHRM10003 PI-7/8-1 7/8" Dia. x 7/16" W Ceramic Insulator, 13/32" Hole 25 piece bag $18.30  
+MORTHRM10002 PI-5/8-1 5/8" Dia. x 7/16" W Ceramic Insulator, 1/4" Hole 25 piece bag $15.20  
+MORTHRM10001 PI-3/4-1 3/4" Dia. x 3/8" W Ceramic Insulator, 5/16" Hole 25 piece bag $16.70  
+Electrical Power Wire: A commonly used wire is 14GA TGGT  More Information 
+Item ID Catalog # Description Price Per Foot Click "Select" below to see our actual real-time quantity in stock
+ 
+TGGT (DFGL) Wire - Electrical Power Wire. Teflon sleeving, fiberglass overbraid. 
+WIREHT10001 14GA TGGT Wire 14 Gauge TGGT Electrical Power Wire. 482� F (250�C) $0.63  
+WIREHT10002 12GA TGGT Wire 12 Gauge TGGT Electrical Power Wire. 482� F (250�C) $0.83  
+MG (HDL) Wire - Electrical Power Wire (High Temperature) 
+WIREHT10003 14GA MG Wire 14 Gauge MG Electrical Power Wire. High Temperature (842 Deg. F) $1.31  
+WIREHT10004 12GA MG Wire 12 Gauge MG Electrical Power Wire. High Temperature (842 Deg. F) $1.47  
+Ring Terminals: High-temperature, non-insulated, alloy steel, nickel plated. A commonly used size is 66636
+  More Information 
+Part #
+ Catalog # / Description Quantity Price Click "Select" below to see our actual real-time quantity in stock 
+#10 Stud Ring Terminals 
+ 
+HTTERM10026
+ 66636 HT2-5 (16 to 14 Ga. Wire Range CMA Range: 2.050-5.180) Dimensions: W: .314, C: .295, L: .630, B: .177, E: .472, D: .165 50 pieces $19.00  
+HTTERM10027
+ 66639 HT5.5-5 (12-10 Ga.Wire Range CMA Range: 5.180-13.100) Dimensions: W: .374, C: .324, L: .767, B: .255, E: .579, D: .220  50 pieces $27.00  
+1/4" Stud Ring Terminals 
+ 
+HTTERM10019 66637 (16-14 Ga. Wire) 50 pieces $28.00  
+HTTERM10031 66640 HT5.5-6 (12-10 Ga. Wire) 50 pieces $32.00  
+Butt Splice Connectors. High-temperature, non-insulated, alloy steel, nickel plated. 
+  More Information 
+HTTERM10021 66646 HTB2S (16-14 Ga. Wire) 50 pieces $22.00  
+HTTERM10023 66647 HTB5.5S (12-10 Ga. Wire) 50 pieces $32.00  
+Ceramic Fiber Insulation: A commonly used insulation is Durablanket S
+  More Information 
+Item ID
+ Catalog# Description Price Click "Select" below to see our actual real-time quantity in stock 
+INDFB10002 Durablanket S One square foot (Please order in 4 square foot increments) of 1" thick x 48" wide Ceramic Fiber Insulation cut from a 100 square foot boxed roll (48" x 25 ft ) $2.85  
+INDFB10005 Durablanket S 50 square foot boxed roll of Durablanket Insulation (24" x 25 ft ).  Durablanket S 24" Wide Ceramic Fiber Insulation.  Small Roll (50 square foot boxed roll (24" x 25 ft )) $110.00  
+ INDFB10001 550K One square foot (Please order in 4 square foot increments) of 1/4" x 48" wide Ceramic Fiber Insulation cut from a 100 square foot boxed roll (48" x 25 ft ) $4.50  
+Optional Controls:  
+ Payne 18TBP-1-15, 120 VAC Input, Variable Voltage, solid state power control, 0-118 VAC OUTPUT, 50/60Hz, 15 AMP FUSE, 1.8 KVA @ MAX RATED VOLTS.  RL (Ohms) Minimum Load Resistance = 8 (For resistive loads a minimum load resistance RL is always implied by the voltage and the current rating of your power control.  Dividing the maximum output voltage (i.e. the input voltage) by the current rating will give you this value.  Ohms Law, E=I*R) 
+ Payne 18TBP-2-15, 240 VAC Input, Variable Voltage, solid state power control, 0-235 VAC OUTPUT, 50/60Hz (ALSO FOR 220/230 VAC INPUT), 15 AMP FUSE, 3.6 KVA @ MAX RATED VOLTS.   RL (Ohms) Minimum Load Resistance = 16 (For resistive loads a minimum load resistance RL is always implied by the voltage and the current rating of your power control.  Dividing the maximum output voltage (i.e. the input voltage) by the current rating will give you this value.  Ohms Law, E=I*R) 
+ Payne 18TP-1-15, 120 VAC, 50/60 Hz input, Variable Voltage, portable solid state power control, single-phase, 15 amp fuse, 6 foot plug & cordset. 
+ Payne 18TP-2-15, 240 VAC Input, Variable Voltage, portable solid state power control, single-phase, 15 amp fuse, 6 foot plug & cordset. 3600 watts @ 240 volts (maximum rated voltage) 
+Item ID Catalog # Description Price Click "Select" below to see our actual real-time quantity in stock
+ 
+PAYNE10001 18TBP-1-15 Payne Engineering 120V Solid State Variable Temperature Power Controller. 120 VAC INPUT, 0-118 VAC OUTPUT, 50/60Hz $94.30  
+PAYNE10002 18TBP-2-15 Payne Engineering Solid State Variable Temperature Power Controller. 240 VAC INPUT, 0-235 VAC OUTPUT, 50/60Hz (ALSO FOR 220/230 VAC INPUT) $102.35 
+ 
+PAYNE10003 18TP-1-15 120 VAC, 15 amp fuse, 6 foot plug & cordset. Portable solid state Variable Temperature power controller. Single-phase, 50/60 Hz input. 1800 watts @ 120 volts (maximum rated voltage) $181.70  
+PAYNE10006 49C25-15 Replacement Fuse For 18TP-1-15 control (Can be added to your order after selecting the control above) $9.20 
+ 
+PAYNE10005 18TP-2-15 240 VAC Variable Voltage Control. Portable solid state power control. 15 amp fuse, 6 foot plug & cordset. Single-phase. 3600 watts @ 240 volts (maximum rated voltage) $192.05 
+ 
+Fiberglass Sleeving Sold by the spool:
+  More Information 
+Item ID Catalog # Spool Size (Feet)
+ I.D INCHES Price Per Spool Click "Select" below to see our actual real-time quantity in stock 
+NOMINAL MINIMUM MAXIMUM 
+FIBSLEEV10045 #2 100 0.263 0.258 0.278 $25.00  
+FIBSLEEV10046 #3/8 100 0.387 0.375 0.399 $36.52  
+FIBSLEEV10047 #1/2 100 0.512 0.500 0.524 $71.16  
+Ceramic Terminal Blocks:  More Information 
+Item ID Catalog # / Description Price Click "Select" below to see our actual real-time quantity in stock 
+IRTB10001 TB1C / 1 Pole Ceramic Terminal Block $2.25  
+IRTB10002 TB2J / 2 Pole Ceramic Terminal Block $3.30  
+IRTB10006 TB3J / 3 Pole Terminal Block $4.45  
+IRTB10005 TB4J / 4 Pole Ceramic Terminal Block $5.95  
+ 
+
+--------------------------------------------------------------------------------
+
+
+ 
+ When you are ready to order you will be taken to our secure online ordering website: www.MorElectricHeating.com.
+Visit our other websites for home, office and factory infrared heating, fans and air conditioning: www.InfraredHeaters.com and www.Fans-Plus.com.
+ 
+
+ MOR ELECTRIC HEATING ASSOC., INC.
+5880 Alpine Ave. NW � Comstock Park, MI 49321  USA � Tel 616-784-1121 � 800-442-2581 � Fax 616-784-7775 � E-mail sales@heatersplus.com
+-------------------------------------------------------------------------------- 
+
+Suppose a coil is to be designed to fit a ceramic hot plate spiral:
+
+We know that:
+
+1. We want an 800-watt element
+
+2. The groove is 30" long and J" wide.
+
+3. The element is to operate on 115 volts.
+
+4. To insure the best possible life, we will use NICHROME 80.
+
+To find total cold coil resistance: Table I shows that for NICHROME 80 we need 15.44 ohms in
+
+the coil and the recommended wire gauges are #18 to #22.
+
+To select coil diameter and wire gauge:
+
+Selecting heavier wire will lower the element temperature, but if the voltage stays the same the current will increase and the watts output will increase. There is no ultimate way to determine the temperature so usually you have to experiment to determine the element temperature.
+
+For the present element let us select #20 gauge wire. Looking in Table IIa we find the resistance per inch of close would coil for 7/32" dia. (thus allowing 1/32" clearance in the 1 inch groove) #20 gauge. This resistance is .967 ohms per inch.
+
+Length of coil and stretch factor:
+
+We now know that we need a total coil resistance of 15.44 ohms and a resistance per inch of .967 ohms thus 15.44/.967 = 16" of closed coil. This would mean a stretch factor of 30/15 or 2:1. A stretched coil should be 1.5 to 4 times its closed length for good design.
+
+Other calculations on this coil might be:
+
+Estimated wire temperature: Can be found in Table V.
+
+We are using #20 gauge wire and can calculate that the current will be:
+
+I = W = 800 = 6.95 amps.
+
+E = 115 
+
+Looking across the table we find the coil temperature in air will be about 1300 F. When surrounded by the ceramic this temperature would probably be about 200 F. higher or about 1500 F.
+
+Watts per square inch of element surface:
+
+One method used to test the soundness of an element design is a check on the power density per square inch of radiant surface. This is done in the following manner:
+
+Our element is to be constructed of #20 gauge wire (.032" dia.) with a total resistance of 15.44 ohms. From Table V we find that .032" NICHROME 80 has a resistance of .6347 ohms per foot. Thus the total length of wire = (Total ohms) / (Ohms per foot of Wire).
+
+L = 15.44 / .6347 = 24.4 feet of wire
+
+The surface area of the element is:
+
+Surface area = Pi*(wire dia.)(length of wire in inches)
+
+or = (3.14)*(.032) *(24.4)*(12) 
+
+= 29.4 square inches
+
+The power density is thus = Watts / Area = 800 / 29.4 = 27.2 watts per square inch 
+
+For safe design the watts density on an open helical coil should not exceed 35 watts per square inch when the element is operated in still air. Naturally, if the coil is to be used to heat a rapidly moving air stream, the power density may be safely increased. Conversely, if the coil is to be imbedded in a refractory material, the power density must be decreased to prevent overheating of the element.
+
+Number of coils per pound of wire:
+
+Using #20 gauge wire with 15.44 ohms per coil, from Table V, we find that there are .6347 ohms per foot of wire, thus
+
+Ohms per Pound = Ohms/FT X 1000 = .6347 X 1000 = 216.4 LBS. per 1000 FT.
+
+1 pound of wire = 216.4 / 15.44 = 14 coils 
+
+RIBBON ELEMENT DESIGN
+
+Suppose a ribbon wound mica element is to be designed for a single piece toaster.
+
+We know that:
+
+1. We want 500 watts.
+
+2. The element will operate on 115 volts.
+
+3. The mica sheet has space for 10 feet of ribbon. Again we will use NICHROME 80.
+
+To find the cold ribbon resistance:
+
+Table I shows that we need 24.704 ohms using Nichrome 80.
+
+We want 10 ft. of ribbon. This is a resistance of 24.704 / 10 = 2.470. 
+
+To estimate ribbon size:
+
+From the ribbon resistance for NICHROME 80 in Table IV we find that 1/16 X .004 ribbon has a resistance of 2.458 ohms per foot which should work very well and wrap easily on the mica form.
+
+To make an approximate check on the soundness of our element design we should calculate the watts density per square inch of element surface. 
+
+Our ribbon is 120 inches long, 1/16 inch wide and .004" thick. Therefore, the total surface area is: 
+
+120 X .062 X 2 = 15.0
+
+120 X .004 X 2 = .96
+
+Total surface area = 15.96 square inches
+
+The watts density is thus: 500 / 15.96 = 31.4 watts per square inch.
+
+For approximate design calculations the following table gives the range of watts per square inch for various types of elements:
+
+Element Type Range of Watts Per Square Inch
+
+Furnace Strip 6 to 20 
+
+Toaster Strip 20 to 40 
+
+FlatIrons(Ribbon Elements) 30 to 60
+
+It should be pointed out that the matter of watts per square inch is a factor which varies considerably due to design characteristics of the unit. In general, the better a means is provided for heat conduction from the element the higher is the safe limit of power density. This is especially true for electric irons where, due to close contact, the sole plate can be considered the radiating surface. 
+
+-----------------------------------------------------------------------------------------------------
+
+To make the basic calculations for the design of heating elements, the following formulas, known as Ohms Law, are essential:
+
+1. Volts = Amperes xOhms E = I x R
+2. Watts = Volts xAmperes W = E x I
+3. Watts = (Amperes)(Amperes) x Ohms W = I x I x R
+
+USEFUL COIL FORMULAS
+
+Length of one turn of wire = Pi x (Outside coil diameter-wire diameter)
+Number of turns of wire per inch of coil = 1/(wire diameter)
+Length of wire in 1" of closed coil = [Pi x (Outside Coil Diameter- Wire Diameter)]/(Wire Diameter)
+Resistance per inch of closed coil = [Pi x (OD- Wire Diameter) (Resistance /Ft. of Wire)]/12 (Wire Diameter)
+Length of coil = [Total Resistance of Coil] / [Resistance per Inch of Closed Coil]
+
+Combining the formulas given above, we get the complete formula for coil calculations.
+
+LENGTH OF COIL = [Coil Resistance x Wire Diameter] / [.262x (Coil OD - Wire Diameter)*(Resistance/Ft. of Wire Used)]
+WIRE RESISTANCE = [(OHMS-CIRCULAR MILS) / FEET] / [Diameter in Mils squared]
+STRIP AND RIBBON RESISTANCE FACTOR = [OHMS/Sq.Mil Ft.] / [THICKNESS(mils) x WIDTH(mils) x Correction]
+
+If calculations are done for ribbon wire, a correction factor of .94 or .83 must be used depending on the ratio of width to thickness. 
+The higher the width to thickness ratio the lower the correction factor is.
+
+WIRE WEIGHT = [Pi x r^2 x LENGTH x LBS] / CUBIC INCH
+STRIP WEIGHT = [Thickness x Width x Length x Lbs.] / CUBIC INCH
+OHMS/SQ. MIL FT = OHMS/CIR. MIL FT. x .7854 
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Sewing Machines
+1
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Pegasus Serger
+2
+Pegasus Serger
+
+ Spreader Carrier - Part No 271518B91
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Adler 767
+2
+
+-----------------------------------------------------------------------------------------
+Efka Ext Cable for Adler 756
+ No: 1111787
+-----------------------------------------------------------------------------------------
+
+Take-up Bearings
+ 
+JIMS Part No:
+ 6000 C3 (large bearing)
+ 61900-C3
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Juki
+2
+Serial: 4DOJK13886
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Other Items
+1
+----------------------------------------------------------------------------
+Air Floatation System for Tables
+
+ Profeel, Inc. "ZYPPY"
+ 7730 Roswell Road #209
+ Atlanta, GA 30350
+
+Dealer for air devices that are used to "float" items such as cloth, etc. Possible 
+use for sleeping bags?.
+
+----------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Rolls Inventory
+1
+
+----------------------------------------------------------------------------
+Date: 5/10/2011
+
+ Qty  Cell  Desc    Notes:
+
+ 2  2,3,4  16" Lickern
+ 1  1  9-1/2" Lickern
+ 3  2,3,4  16" Doffers
+ 1  2 only 10-1/2" Fancy  Only fits Cell 2
+ 2  1,4  20" Main
+ 1  1  9" Lickern   Only fits Cell 1
+ 2  3,4  30" Main  
+ 1  2  30" Main   Only fits Cell 2
+ 6  2,3,4  6" Worker/Stripper 
+ 3  1  4" Worker/Stripper Only fits Cell 1
+
+Need:
+
+ 5  4" Roll  Needs rewinding
+ 1  4" Roll  Needs Shaft Work
+ 2  9-10" Fancys Needs rewinding
+
+----------------------------------------------------------------------------
+
+Date: 5/18/2012
+
+ Rolls Reclothed:
+
+ Qty  Cell  Desc    Notes:
+
+ 1  4  20" Intermediate Doffer
+ 1  2,3,4  10" Fancy
+ 3  2,3,4  6" Worker/Stripper
+
+Need:
+
+ 2  4  20" Main   Needs Lathe Work
+
+
+
+
+----------------------------------------------------------------------------
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Robo Quilter Parts
+1
+
+Sensor Part Numbers/Subs
+
+Vendor: Banner Engineering 
+
+ Robo Part No: C-1000-017 
+ Part No: SE612LVQDP-61144 
+ Desc: Right Angle Photo Sensor
+ ENHANCED SHORT RANGE W/6"" SWIVEL PGTL
+
+ Robo Part No: 
+ Part No: SE612LVNCQDP-61143
+ Desc: Photoelectric Sensors
+ ENHANCED SHORT RANGE W/6 in Swivel Pigtail
+
+ Robo Part No: 
+ Part No: S185N6DQ-29505
+ 
+ Desc: EZ-BEAM S18 Series: Diffuse
+ Range: 100 mm; Input: 10-30V dc
+ Output: Complementary NPN
+ Quick-Disconnect Connector
+
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+Project Items
+1
+<end node> 5P9i0s8y19Z
+dt=Text
+<node>
+80/20
+2
+
+Vendor: Kaman
+
+ 4334_15  Corner Gusset  KAMAN "file://C:\Users\Maint\Documents\8020_Gusset.png"
+ 6524_6  Linear Bearing  KAMAN "file://C:\Users\Maint\Documents\8020_LargeBearing.png"
+
+
+
+ 6524   Large Bearing  KAMAN "file://C:\Users\Maint\Documents\8020_LargeBearing.png"
+ 6815    Small Bearing  KAMAN
+ 4334    Inside Gusset  KAMAN "file://C:\Users\Maint\Documents\8020_Gusset.png"
+
+ 1530S242   80/20 Rail   KAMAN
+ 16U254  80/20 Rail   GRAINGER
+
+ 4332                 2 Hole Inside Gusset Corner Bracket
+ 3320                 5/16-18 Economy Tee Nut w/Bolt
+
+<end node> 5P9i0s8y19Z
